@@ -1,0 +1,691 @@
+[2023-11-24 09:05:12] [WARNING] PyNaCl is not installed, voice will NOT be supported
+[2023-11-24 09:05:12] [INFO] logging in using static token
+[2023-11-24 09:05:13] [INFO] Shard ID None has connected to Gateway (Session ID: 085dfd036a8c34fc9ec8d288e5dbaa54).
+[2023-11-24 09:05:15] [INFO] Inventory#2659 csatlakozott a Discordhoz!
+[2023-11-24 09:05:36] [INFO] gamika18 mondja: 'asd' (ID: 323902189904855061, 💲inventory-test)
+[2023-11-24 09:05:36] [INFO] Sikeres válasz érkezett a(z) 'asd' üzenetre a következőtől: 'gamika18' (ID: '323902189904855061') a '💲inventory-test' csatornán
+[2023-11-24 09:08:40] [WARNING] PyNaCl is not installed, voice will NOT be supported
+[2023-11-24 09:08:40] [INFO] logging in using static token
+[2023-11-24 09:08:43] [INFO] Shard ID None has connected to Gateway (Session ID: 38b0788ba4e3601998ef6e2e9893056e).
+[2023-11-24 09:08:45] [INFO] Inventory#2659 csatlakozott a Discordhoz!
+[2023-11-24 09:08:54] [INFO] gamika18 mondja: 'Szia' (ID: 323902189904855061, 💲inventory-test)
+[2023-11-24 09:08:54] [ERROR] Érvénytelen bevitel: 400 Bad Request (error code: 50006); Ismeretlen bevitel: 'Szia'; a következőtől: 'gamika18' (ID: 323902189904855061)
+[2023-11-24 09:08:58] [INFO] gamika18 mondja: 'hello' (ID: 323902189904855061, 💲inventory-test)
+[2023-11-24 09:08:58] [INFO] Sikeres válasz érkezett a(z) 'hello' üzenetre a következőtől: 'gamika18' (ID: '323902189904855061') a '💲inventory-test' csatornán
+[2023-11-24 09:09:05] [INFO] gamika18 mondja: 'asd' (ID: 323902189904855061, 💲inventory-test)
+[2023-11-24 09:09:05] [INFO] Sikeres válasz érkezett a(z) 'asd' üzenetre a következőtől: 'gamika18' (ID: '323902189904855061') a '💲inventory-test' csatornán
+[2023-11-24 09:12:21] [WARNING] PyNaCl is not installed, voice will NOT be supported
+[2023-11-24 09:12:21] [INFO] logging in using static token
+[2023-11-24 09:12:22] [INFO] Shard ID None has connected to Gateway (Session ID: 86a831adde2269bdf05d350903f77d09).
+[2023-11-24 09:12:24] [INFO] Inventory#2659 csatlakozott a Discordhoz!
+[2023-11-24 09:12:29] [INFO] gamika18 mondja: 'a' (ID: 323902189904855061, 💲inventory-test)
+[2023-11-24 09:12:30] [ERROR] Érvénytelen bevitel: 400 Bad Request (error code: 50006); Ismeretlen bevitel: 'a'; a következőtől: 'gamika18' (ID: 323902189904855061)
+[2023-11-24 09:12:32] [INFO] gamika18 mondja: 'asd' (ID: 323902189904855061, 💲inventory-test)
+[2023-11-24 09:12:33] [INFO] A bot válasza: '`Ez egy segítség amit tudsz változtatni.`'
+[2023-11-24 09:12:33] [INFO] Sikeres válasz érkezett a(z) 'asd' üzenetre a következőtől: 'gamika18' (ID: '323902189904855061') a '💲inventory-test' csatornán
+[2023-11-24 09:14:02] [WARNING] PyNaCl is not installed, voice will NOT be supported
+[2023-11-24 09:14:02] [INFO] logging in using static token
+[2023-11-24 09:14:04] [INFO] Shard ID None has connected to Gateway (Session ID: ecc069c2b5b98ec4a690fdf6861f8f09).
+[2023-11-24 09:14:06] [INFO] Inventory#2659 csatlakozott a Discordhoz!
+[2023-11-24 09:14:09] [INFO] gamika18 mondja: 'asdw' (ID: 323902189904855061, 💲inventory-test)
+[2023-11-24 09:14:09] [ERROR] Érvénytelen bevitel: 400 Bad Request (error code: 50006); Ismeretlen bevitel: 'asdw'; a következőtől: 'gamika18' (ID: 323902189904855061)
+[2023-11-24 09:14:11] [INFO] gamika18 mondja: 'asd' (ID: 323902189904855061, 💲inventory-test)
+[2023-11-24 09:14:11] [INFO] Sikeres válasz érkezett a(z) 'asd' üzenetre a következőtől: 'gamika18' (ID: '323902189904855061') a '💲inventory-test' csatornán
+[2023-11-24 09:14:11] [INFO] A bot válasza: '`Ez egy segítség amit tudsz változtatni.`'
+[2023-11-24 09:16:11] [INFO] gamika18 mondja: 'hello' (ID: 323902189904855061, 💲inventory-test)
+[2023-11-24 09:16:12] [INFO] Sikeres válasz érkezett a(z) 'hello' üzenetre a következőtől: 'gamika18' (ID: '323902189904855061') a '💲inventory-test' csatornán
+[2023-11-24 09:16:12] [INFO] A bot válasza: 'Hello!'
+[2023-11-24 09:17:16] [WARNING] PyNaCl is not installed, voice will NOT be supported
+[2023-11-24 09:17:16] [INFO] logging in using static token
+[2023-11-24 09:17:18] [INFO] Shard ID None has connected to Gateway (Session ID: ce160fbbfe379a2bee70b6b0256433ab).
+[2023-11-24 09:17:20] [INFO] Inventory#2659 csatlakozott a Discordhoz!
+[2023-11-24 09:17:23] [INFO] gamika18 mondja: 'a' (ID: 323902189904855061, 💲inventory-test)
+[2023-11-24 09:17:24] [ERROR] Érvénytelen bevitel: 400 Bad Request (error code: 50006); Ismeretlen bevitel: 'a'; a következőtől: 'gamika18' (ID: 323902189904855061)
+[2023-11-24 09:17:30] [INFO] gamika18 mondja: 'asd' (ID: 323902189904855061, 💲inventory-test)
+[2023-11-24 09:17:31] [INFO] 
+Sikeres válasz érkezett a(z) 'asd' üzenetre a következőtől: 'gamika18' (ID: '323902189904855061') a '💲inventory-test' csatornán
+[2023-11-24 09:17:31] [INFO] A bot válasza: '`Ez egy segítség amit tudsz változtatni.`'
+[2023-11-24 09:18:51] [WARNING] PyNaCl is not installed, voice will NOT be supported
+[2023-11-24 09:18:51] [INFO] logging in using static token
+[2023-11-24 09:18:52] [INFO] Shard ID None has connected to Gateway (Session ID: eb69d1b91ba8a85b5d9985fa4390cd1a).
+[2023-11-24 09:18:54] [INFO] Inventory#2659 csatlakozott a Discordhoz!
+[2023-11-24 09:19:34] [INFO] gamika18 mondja: 'a' (ID: 323902189904855061, 💲inventory-test)
+[2023-11-24 09:19:35] [ERROR] Érvénytelen bevitel: 400 Bad Request (error code: 50006); Ismeretlen bevitel: 'a'; a következőtől: 'gamika18' (ID: 323902189904855061)
+
+[2023-11-24 09:20:08] [INFO] gamika18 mondja: 'asd' (ID: 323902189904855061, 💲inventory-test)
+[2023-11-24 09:20:08] [INFO] Sikeres válasz érkezett a(z) 'asd' üzenetre a következőtől: 'gamika18' (ID: '323902189904855061') a '💲inventory-test' csatornán
+[2023-11-24 09:20:08] [INFO] A bot válasza: '`Ez egy segítség amit tudsz változtatni.`'
+
+[2023-11-24 09:22:04] [WARNING] PyNaCl is not installed, voice will NOT be supported
+
+[2023-11-24 09:22:04] [INFO] logging in using static token
+
+[2023-11-24 09:22:05] [INFO] Shard ID None has connected to Gateway (Session ID: 90c8449d53d9b389bc0f482ff1277464).
+
+[2023-11-24 09:22:07] [INFO] Inventory#2659 csatlakozott a Discordhoz!
+
+[2023-11-24 09:22:18] [INFO] gamika18 mondja: 'as' (ID: 323902189904855061, 💲inventory-test)
+
+[2023-11-24 09:22:18] [ERROR] Érvénytelen bevitel: 400 Bad Request (error code: 50006); Ismeretlen bevitel: 'as'; a következőtől: 'gamika18' (ID: 323902189904855061)
+
+[2023-11-24 09:22:21] [INFO] gamika18 mondja: 'a' (ID: 323902189904855061, 💲inventory-test)
+
+[2023-11-24 09:22:21] [ERROR] Érvénytelen bevitel: 400 Bad Request (error code: 50006); Ismeretlen bevitel: 'a'; a következőtől: 'gamika18' (ID: 323902189904855061)
+
+[2023-11-24 09:22:23] [INFO] gamika18 mondja: 'asd' (ID: 323902189904855061, 💲inventory-test)
+
+[2023-11-24 09:22:23] [INFO] Sikeres válasz érkezett a(z) 'asd' üzenetre a következőtől: 'gamika18' (ID: '323902189904855061') a '💲inventory-test' csatornán
+
+[2023-11-24 09:22:23] [INFO] A bot válasza: '`Ez egy segítség amit tudsz változtatni.`'
+
+[2023-11-24 09:24:12] [WARNING] PyNaCl is not installed, voice will NOT be supported
+[2023-11-24 09:24:12] [INFO] logging in using static token
+
+[2023-11-24 09:24:14] [INFO] Shard ID None has connected to Gateway (Session ID: 73f7b422b45003f3caa60823c522b6eb).
+
+[2023-11-24 09:24:16] [INFO] Inventory#2659 csatlakozott a Discordhoz!
+
+[2023-11-24 09:24:24] [INFO] gamika18 mondja: 'asd' (ID: 323902189904855061, 💲inventory-test)
+
+[2023-11-24 09:24:25] [INFO] Sikeres válasz érkezett a(z) 'asd' üzenetre a következőtől: 'gamika18' (ID: '323902189904855061') a '💲inventory-test' csatornán
+[2023-11-24 09:24:25] [INFO] A bot válasza: '`Ez egy segítség amit tudsz változtatni.`'
+
+[2023-11-24 09:24:33] [INFO] gamika18 mondja: 'a' (ID: 323902189904855061, 💲inventory-test)
+
+[2023-11-24 09:24:34] [ERROR] Érvénytelen bevitel: 400 Bad Request (error code: 50006); Ismeretlen bevitel: 'a'; a következőtől: 'gamika18' (ID: 323902189904855061)
+
+[2023-11-24 09:27:07] [INFO] gamika18 mondja: 'szia' (ID: 323902189904855061, 💲inventory-test)
+[2023-11-24 09:27:07] [ERROR] Érvénytelen bevitel: 400 Bad Request (error code: 50006); Ismeretlen bevitel: 'szia'; a következőtől: 'gamika18' (ID: 323902189904855061)
+
+[2023-11-24 09:27:20] [INFO] gamika18 mondja: 'roll' (ID: 323902189904855061, 💲inventory-test)
+
+[2023-11-24 09:27:21] [INFO] Sikeres válasz érkezett a(z) 'roll' üzenetre a következőtől: 'gamika18' (ID: '323902189904855061') a '💲inventory-test' csatornán
+[2023-11-24 09:27:21] [INFO] A bot válasza: '6'
+
+[2023-11-24 09:28:06] [INFO] gamika18 mondja: 'asd' (ID: 323902189904855061, 💲inventory-test)
+[2023-11-24 09:28:06] [INFO] Sikeres válasz érkezett a(z) 'asd' üzenetre a következőtől: 'gamika18' (ID: '323902189904855061') a '💲inventory-test' csatornán
+[2023-11-24 09:28:06] [INFO] A bot válasza: '`Ez egy segítség amit tudsz változtatni.`'
+
+[2023-11-24 09:45:07] [WARNING] PyNaCl is not installed, voice will NOT be supported
+[2023-11-24 09:45:07] [INFO] logging in using static token
+
+[2023-11-24 09:45:09] [INFO] Shard ID None has connected to Gateway (Session ID: a20e47d6c9202d35d84f448c873870e8).
+
+[2023-11-24 09:45:11] [INFO] Inventory#2659 csatlakozott a Discordhoz!
+
+[2023-11-24 09:45:13] [INFO] gamika18 mondja: 'help' (ID: 323902189904855061, 💲inventory-test)
+[2023-11-24 09:45:13] [INFO] Sikeres válasz érkezett a(z) 'help' üzenetre a következőtől: 'gamika18' (ID: '323902189904855061') a '💲inventory-test' csatornán
+[2023-11-24 09:45:13] [INFO] A bot válasza: '{'content': 'Az alábbiakban láthatod a bot használható parancsait:', 'embed': {'title': 'Bot Parancsok', 'description': 'Ez a bot támogat néhány Markdown formázási lehetőséget.', 'color': 1008019, 'fields': [{'name': 'Hello', 'value': 'Üdvözlő üzenet. Használat: `hello`', 'inline': False}, {'name': 'Roll', 'value': 'Dob egy hatoldalú dobókockával. Használat: `roll`', 'inline': False}, {'name': 'Asd', 'value': 'Egy segítségüzenet. Használat: `asd`', 'inline': False}, {'name': 'Markdown támogatás', 'value': 'A bot támogat néhány Markdown formázási lehetőséget, például *dőlt*, **vastag** és `kódblokkok`.', 'inline': False}], 'footer': {'text': 'Bot Help'}}}'
+
+[2023-11-24 09:48:34] [WARNING] PyNaCl is not installed, voice will NOT be supported
+[2023-11-24 09:48:34] [INFO] logging in using static token
+
+[2023-11-24 09:48:36] [INFO] Shard ID None has connected to Gateway (Session ID: 3a1a193fbb454faf219b9aebecdf3f10).
+
+[2023-11-24 09:48:38] [INFO] Inventory#2659 csatlakozott a Discordhoz!
+
+[2023-11-24 09:48:45] [INFO] gamika18 mondja: 'help' (ID: 323902189904855061, 💲inventory-test)
+[2023-11-24 09:48:45] [ERROR] Hiba történt az esemény kezelése során: on_message
+Traceback (most recent call last):
+  File "d:\Py\inventory\venv\lib\site-packages\discord\client.py", line 441, in _run_event
+    await coro(*args, **kwargs)
+  File "d:\Py\inventory\bot.py", line 51, in on_message
+    await send_message(message, user_message, is_private=False)
+  File "d:\Py\inventory\bot.py", line 14, in send_message
+    response = responses.handle_responses(user_message)
+TypeError: handle_responses() missing 1 required positional argument: 'ctx'
+
+[2023-11-24 09:50:14] [WARNING] PyNaCl is not installed, voice will NOT be supported
+[2023-11-24 09:50:14] [INFO] logging in using static token
+
+[2023-11-24 09:50:15] [INFO] Shard ID None has connected to Gateway (Session ID: 43515cef686ac507b6eb28d7b4d363be).
+
+[2023-11-24 09:50:18] [INFO] Inventory#2659 csatlakozott a Discordhoz!
+
+[2023-11-24 09:50:23] [INFO] gamika18 mondja: 'help' (ID: 323902189904855061, 💲inventory-test)
+[2023-11-24 09:50:23] [ERROR] Hiba történt az esemény kezelése során: on_message
+Traceback (most recent call last):
+  File "d:\Py\inventory\venv\lib\site-packages\discord\client.py", line 441, in _run_event
+    await coro(*args, **kwargs)
+  File "d:\Py\inventory\bot.py", line 51, in on_message
+    await send_message(message, user_message, is_private=False)
+  File "d:\Py\inventory\bot.py", line 14, in send_message
+    response = responses.handle_responses(user_message)
+TypeError: handle_responses() missing 1 required positional argument: 'ctx'
+
+[2023-11-24 09:51:20] [WARNING] PyNaCl is not installed, voice will NOT be supported
+[2023-11-24 09:51:20] [INFO] logging in using static token
+
+[2023-11-24 09:51:22] [INFO] Shard ID None has connected to Gateway (Session ID: 4aef128c8a5990d577dc8e744f6dc166).
+
+[2023-11-24 09:51:24] [INFO] Inventory#2659 csatlakozott a Discordhoz!
+
+[2023-11-24 09:51:35] [INFO] gamika18 mondja: 'help' (ID: 323902189904855061, 💲inventory-test)
+
+[2023-11-24 09:51:36] [INFO] Sikeres válasz érkezett a(z) 'help' üzenetre a következőtől: 'gamika18' (ID: '323902189904855061') a '💲inventory-test' csatornán
+[2023-11-24 09:51:36] [INFO] A bot válasza: '<discord.embeds.Embed object at 0x0000027FD10E97E0>'
+
+[2023-11-24 09:52:47] [WARNING] PyNaCl is not installed, voice will NOT be supported
+[2023-11-24 09:52:47] [INFO] logging in using static token
+
+[2023-11-24 09:52:48] [INFO] Shard ID None has connected to Gateway (Session ID: 12e3429b70e2aae7fa709ba4c9ddf0bb).
+
+[2023-11-24 09:52:50] [INFO] Inventory#2659 csatlakozott a Discordhoz!
+
+[2023-11-24 09:53:01] [INFO] gamika18 mondja: 'help' (ID: 323902189904855061, 💲inventory-test)
+
+[2023-11-24 09:53:02] [INFO] Sikeres válasz érkezett a(z) 'help' üzenetre a következőtől: 'gamika18' (ID: '323902189904855061') a '💲inventory-test' csatornán
+[2023-11-24 09:53:02] [INFO] A bot válasza: '<discord.embeds.Embed object at 0x000001F5FAF597E0>'
+
+[2023-11-24 09:58:47] [WARNING] PyNaCl is not installed, voice will NOT be supported
+[2023-11-24 09:58:47] [INFO] logging in using static token
+
+[2023-11-24 09:58:48] [INFO] Shard ID None has connected to Gateway (Session ID: aed604c17079cceab9dfbf0417397a68).
+
+[2023-11-24 09:58:50] [INFO] Inventory#2659 csatlakozott a Discordhoz!
+
+[2023-11-24 09:58:52] [INFO] gamika18 mondja: 'help' (ID: 323902189904855061, 💲inventory-test)
+[2023-11-24 09:58:52] [INFO] Sikeres válasz érkezett a(z) 'help' üzenetre a következőtől: 'gamika18' (ID: '323902189904855061') a '💲inventory-test' csatornán
+[2023-11-24 09:58:52] [INFO] A bot válasza: '<discord.embeds.Embed object at 0x000002B9F01E97E0>'
+
+[2023-11-24 10:01:39] [WARNING] PyNaCl is not installed, voice will NOT be supported
+[2023-11-24 10:01:39] [INFO] logging in using static token
+
+[2023-11-24 10:01:41] [INFO] Shard ID None has connected to Gateway (Session ID: 17ae32ffe679a7dabaec45629f532c33).
+
+[2023-11-24 10:01:43] [INFO] Inventory#2659 csatlakozott a Discordhoz!
+
+[2023-11-24 10:01:45] [INFO] gamika18 mondja: 'help' (ID: 323902189904855061, 💲inventory-test)
+
+[2023-11-24 10:01:46] [INFO] Sikeres válasz érkezett a(z) 'help' üzenetre a következőtől: 'gamika18' (ID: '323902189904855061') a '💲inventory-test' csatornán
+[2023-11-24 10:01:46] [INFO] A bot válasza: '<discord.embeds.Embed object at 0x0000013956EA9900>'
+
+[2023-11-24 10:02:51] [INFO] debtorn mondja: 'help' (ID: 345624155514732545, 💲inventory-test)
+
+[2023-11-24 10:02:52] [INFO] Sikeres válasz érkezett a(z) 'help' üzenetre a következőtől: 'debtorn' (ID: '345624155514732545') a '💲inventory-test' csatornán
+[2023-11-24 10:02:52] [INFO] A bot válasza: '<discord.embeds.Embed object at 0x00000139565EACB0>'
+
+[2023-11-24 10:02:57] [INFO] debtorn mondja: 'hello' (ID: 345624155514732545, 💲inventory-test)
+[2023-11-24 10:02:57] [ERROR] Hiba történt az esemény kezelése során: on_message
+Traceback (most recent call last):
+  File "d:\Py\inventory\venv\lib\site-packages\discord\client.py", line 441, in _run_event
+    await coro(*args, **kwargs)
+  File "d:\Py\inventory\bot.py", line 51, in on_message
+    await send_message(message, user_message, is_private=False)
+  File "d:\Py\inventory\bot.py", line 15, in send_message
+    await message.reply(embed=response) if is_private else await message.reply(embed=response)
+  File "d:\Py\inventory\venv\lib\site-packages\discord\message.py", line 1384, in reply
+    return await self.channel.send(content, reference=self, **kwargs)
+  File "d:\Py\inventory\venv\lib\site-packages\discord\abc.py", line 1545, in send
+    with handle_message_parameters(
+  File "d:\Py\inventory\venv\lib\site-packages\discord\http.py", line 178, in handle_message_parameters
+    payload['embeds'] = [embed.to_dict()]
+AttributeError: 'str' object has no attribute 'to_dict'
+
+[2023-11-24 10:03:05] [INFO] debtorn mondja: 'roll' (ID: 345624155514732545, 💲inventory-test)
+[2023-11-24 10:03:05] [ERROR] Hiba történt az esemény kezelése során: on_message
+Traceback (most recent call last):
+  File "d:\Py\inventory\venv\lib\site-packages\discord\client.py", line 441, in _run_event
+    await coro(*args, **kwargs)
+  File "d:\Py\inventory\bot.py", line 51, in on_message
+    await send_message(message, user_message, is_private=False)
+  File "d:\Py\inventory\bot.py", line 15, in send_message
+    await message.reply(embed=response) if is_private else await message.reply(embed=response)
+  File "d:\Py\inventory\venv\lib\site-packages\discord\message.py", line 1384, in reply
+    return await self.channel.send(content, reference=self, **kwargs)
+  File "d:\Py\inventory\venv\lib\site-packages\discord\abc.py", line 1545, in send
+    with handle_message_parameters(
+  File "d:\Py\inventory\venv\lib\site-packages\discord\http.py", line 178, in handle_message_parameters
+    payload['embeds'] = [embed.to_dict()]
+AttributeError: 'str' object has no attribute 'to_dict'
+
+[2023-11-24 10:03:08] [INFO] debtorn mondja: 'asd' (ID: 345624155514732545, 💲inventory-test)
+[2023-11-24 10:03:08] [ERROR] Hiba történt az esemény kezelése során: on_message
+Traceback (most recent call last):
+  File "d:\Py\inventory\venv\lib\site-packages\discord\client.py", line 441, in _run_event
+    await coro(*args, **kwargs)
+  File "d:\Py\inventory\bot.py", line 51, in on_message
+    await send_message(message, user_message, is_private=False)
+  File "d:\Py\inventory\bot.py", line 15, in send_message
+    await message.reply(embed=response) if is_private else await message.reply(embed=response)
+  File "d:\Py\inventory\venv\lib\site-packages\discord\message.py", line 1384, in reply
+    return await self.channel.send(content, reference=self, **kwargs)
+  File "d:\Py\inventory\venv\lib\site-packages\discord\abc.py", line 1545, in send
+    with handle_message_parameters(
+  File "d:\Py\inventory\venv\lib\site-packages\discord\http.py", line 178, in handle_message_parameters
+    payload['embeds'] = [embed.to_dict()]
+AttributeError: 'str' object has no attribute 'to_dict'
+
+[2023-11-24 10:03:09] [INFO] debtorn mondja: 'gec' (ID: 345624155514732545, 💲inventory-test)
+
+[2023-11-24 10:03:10] [ERROR] Érvénytelen bevitel: 400 Bad Request (error code: 50006); Ismeretlen bevitel: 'gec'; a következőtől: 'debtorn' (ID: 345624155514732545)
+
+[2023-11-24 10:05:39] [WARNING] PyNaCl is not installed, voice will NOT be supported
+[2023-11-24 10:05:39] [INFO] logging in using static token
+
+[2023-11-24 10:05:42] [INFO] Shard ID None has connected to Gateway (Session ID: ee1ba39a32b210cfe2757bb985e064fa).
+
+[2023-11-24 10:05:44] [INFO] Inventory#2659 csatlakozott a Discordhoz!
+
+[2023-11-24 10:05:45] [INFO] gamika18 mondja: 'help' (ID: 323902189904855061, 💲inventory-test)
+
+[2023-11-24 10:05:46] [ERROR] Érvénytelen bevitel: 400 Bad Request (error code: 50006); Ismeretlen bevitel: 'help'; a következőtől: 'gamika18' (ID: 323902189904855061)
+
+[2023-11-24 10:06:11] [INFO] gamika18 mondja: 'asd' (ID: 323902189904855061, 💲inventory-test)
+
+[2023-11-24 10:06:12] [INFO] Sikeres válasz érkezett a(z) 'asd' üzenetre a következőtől: 'gamika18' (ID: '323902189904855061') a '💲inventory-test' csatornán
+[2023-11-24 10:06:12] [INFO] A bot válasza: '`Ez egy segítség amit tudsz változtatni.`'
+
+[2023-11-24 10:06:15] [INFO] gamika18 mondja: 'help' (ID: 323902189904855061, 💲inventory-test)
+
+[2023-11-24 10:06:16] [ERROR] Érvénytelen bevitel: 400 Bad Request (error code: 50006); Ismeretlen bevitel: 'help'; a következőtől: 'gamika18' (ID: 323902189904855061)
+
+[2023-11-24 10:09:10] [WARNING] PyNaCl is not installed, voice will NOT be supported
+[2023-11-24 10:09:10] [INFO] logging in using static token
+
+[2023-11-24 10:09:12] [INFO] Shard ID None has connected to Gateway (Session ID: fad97e426ec8941fa8cbcd404baded80).
+
+[2023-11-24 10:09:14] [INFO] Inventory#2659 csatlakozott a Discordhoz!
+
+[2023-11-24 10:09:15] [INFO] 'gamika18' mondja: 'help' (ID: 323902189904855061, 💲inventory-test)
+
+[2023-11-24 10:09:16] [INFO] Sikeres válasz érkezett a(z) 'help' üzenetre a következőtől: 'gamika18' (ID: '323902189904855061') a '💲inventory-test' csatornán
+[2023-11-24 10:09:16] [INFO] A bot válasza: '<discord.embeds.Embed object at 0x000001A0DB9A9870>'
+
+[2023-11-24 10:12:57] [WARNING] PyNaCl is not installed, voice will NOT be supported
+[2023-11-24 10:12:57] [INFO] logging in using static token
+
+[2023-11-24 10:12:59] [INFO] Shard ID None has connected to Gateway (Session ID: 4e2921dd17115750f72a88bb04b0b5e4).
+
+[2023-11-24 10:13:01] [INFO] Inventory#2659 csatlakozott a Discordhoz!
+
+[2023-11-24 10:13:08] [INFO] 'gamika18' mondja: 'help' (ID: 323902189904855061, 💲inventory-test)
+[2023-11-24 10:13:08] [INFO] Sikeres válasz érkezett a(z) 'help' üzenetre a következőtől: 'gamika18' (ID: '323902189904855061') a '💲inventory-test' csatornán
+[2023-11-24 10:13:08] [INFO] A bot válasza: '<discord.embeds.Embed object at 0x0000018BCAFA9900>'
+
+[2023-11-24 10:13:12] [INFO] 'gamika18' mondja: 'hello' (ID: 323902189904855061, 💲inventory-test)
+[2023-11-24 10:13:12] [INFO] Sikeres válasz érkezett a(z) 'hello' üzenetre a következőtől: 'gamika18' (ID: '323902189904855061') a '💲inventory-test' csatornán
+[2023-11-24 10:13:12] [INFO] A bot válasza: 'Hello!'
+
+[2023-11-24 10:13:27] [INFO] 'gamika18' mondja: 'easy' (ID: 323902189904855061, 💲inventory-test)
+
+[2023-11-24 10:13:28] [ERROR] Érvénytelen bevitel: 400 Bad Request (error code: 50006); Ismeretlen bevitel: 'easy'; a következőtől: 'gamika18' (ID: 323902189904855061)
+
+[2023-11-24 10:14:54] [INFO] 'gamika18' mondja: 'help' (ID: 323902189904855061, 💲inventory-test)
+
+[2023-11-24 10:14:55] [INFO] Sikeres válasz érkezett a(z) 'help' üzenetre a következőtől: 'gamika18' (ID: '323902189904855061') a '💲inventory-test' csatornán
+[2023-11-24 10:14:55] [INFO] A bot válasza: '<discord.embeds.Embed object at 0x0000018BCA6EA170>'
+
+[2023-11-24 10:15:04] [INFO] 'gamika18' mondja: 'roll' (ID: 323902189904855061, 💲inventory-test)
+[2023-11-24 10:15:04] [INFO] Sikeres válasz érkezett a(z) 'roll' üzenetre a következőtől: 'gamika18' (ID: '323902189904855061') a '💲inventory-test' csatornán
+[2023-11-24 10:15:04] [INFO] A bot válasza: '4'
+
+[2023-11-24 10:15:07] [INFO] 'gamika18' mondja: 'hello' (ID: 323902189904855061, 💲inventory-test)
+
+[2023-11-24 10:15:08] [INFO] Sikeres válasz érkezett a(z) 'hello' üzenetre a következőtől: 'gamika18' (ID: '323902189904855061') a '💲inventory-test' csatornán
+[2023-11-24 10:15:08] [INFO] A bot válasza: 'Hello!'
+
+[2023-11-24 10:15:12] [INFO] 'gamika18' mondja: 'asd' (ID: 323902189904855061, 💲inventory-test)
+
+[2023-11-24 10:15:13] [INFO] Sikeres válasz érkezett a(z) 'asd' üzenetre a következőtől: 'gamika18' (ID: '323902189904855061') a '💲inventory-test' csatornán
+[2023-11-24 10:15:13] [INFO] A bot válasza: '`Ez egy segítség amit tudsz változtatni.`'
+
+[2023-11-24 10:55:15] [WARNING] A bot lekapcsolódott.
+
+[2023-11-24 10:55:16] [INFO] Shard ID None has successfully RESUMED session 4e2921dd17115750f72a88bb04b0b5e4.
+
+[2023-11-24 11:56:04] [ERROR] Attempting a reconnect in 0.88s
+Traceback (most recent call last):
+  File "d:\Py\inventory\venv\lib\site-packages\discord\client.py", line 659, in connect
+    await self.ws.poll_event()
+  File "d:\Py\inventory\venv\lib\site-packages\discord\gateway.py", line 646, in poll_event
+    raise ConnectionClosed(self.socket, shard_id=self.shard_id, code=code) from None
+discord.errors.ConnectionClosed: Shard ID None WebSocket closed with 1000
+[2023-11-24 11:56:04] [WARNING] A bot lekapcsolódott.
+
+[2023-11-24 11:56:06] [INFO] Shard ID None has successfully RESUMED session 4e2921dd17115750f72a88bb04b0b5e4.
+
+[2023-11-24 11:58:30] [ERROR] Attempting a reconnect in 0.57s
+Traceback (most recent call last):
+  File "d:\Py\inventory\venv\lib\site-packages\discord\client.py", line 659, in connect
+    await self.ws.poll_event()
+  File "d:\Py\inventory\venv\lib\site-packages\discord\gateway.py", line 646, in poll_event
+    raise ConnectionClosed(self.socket, shard_id=self.shard_id, code=code) from None
+discord.errors.ConnectionClosed: Shard ID None WebSocket closed with 1000
+[2023-11-24 11:58:30] [WARNING] A bot lekapcsolódott.
+
+[2023-11-24 11:58:31] [INFO] Shard ID None has successfully RESUMED session 4e2921dd17115750f72a88bb04b0b5e4.
+
+[2023-11-24 11:59:54] [ERROR] Attempting a reconnect in 1.32s
+Traceback (most recent call last):
+  File "d:\Py\inventory\venv\lib\site-packages\discord\client.py", line 659, in connect
+    await self.ws.poll_event()
+  File "d:\Py\inventory\venv\lib\site-packages\discord\gateway.py", line 646, in poll_event
+    raise ConnectionClosed(self.socket, shard_id=self.shard_id, code=code) from None
+discord.errors.ConnectionClosed: Shard ID None WebSocket closed with 1000
+[2023-11-24 11:59:54] [WARNING] A bot lekapcsolódott.
+
+[2023-11-24 11:59:56] [INFO] Shard ID None has successfully RESUMED session 4e2921dd17115750f72a88bb04b0b5e4.
+
+[2023-11-24 12:12:58] [INFO] 'gamika18' mondja: 'kcd' (ID: 323902189904855061, 💲inventory-test)
+
+[2023-11-24 12:12:59] [ERROR] Érvénytelen bevitel: 400 Bad Request (error code: 50006); Ismeretlen bevitel: 'kcd'; a következőtől: 'gamika18' (ID: 323902189904855061)
+
+[2023-11-24 12:32:00] [WARNING] PyNaCl is not installed, voice will NOT be supported
+[2023-11-24 12:32:00] [INFO] logging in using static token
+
+[2023-11-24 12:32:02] [INFO] Shard ID None has connected to Gateway (Session ID: 69fd884f6221e07d220553ccae14143f).
+
+[2023-11-24 12:32:04] [INFO] Inventory#2659 csatlakozott a Discordhoz!
+
+[2023-11-24 12:37:17] [WARNING] PyNaCl is not installed, voice will NOT be supported
+[2023-11-24 12:37:17] [INFO] logging in using static token
+
+[2023-11-24 12:37:18] [INFO] Shard ID None has connected to Gateway (Session ID: 21eb6b53e2fef75ea99337ba9b0b0890).
+
+[2023-11-24 12:37:20] [INFO] Inventory#2659 csatlakozott a Discordhoz!
+
+[2023-11-24 12:41:39] [WARNING] PyNaCl is not installed, voice will NOT be supported
+[2023-11-24 12:41:39] [INFO] logging in using static token
+
+[2023-11-24 12:41:41] [INFO] Shard ID None has connected to Gateway (Session ID: ac956945155bbe00dcb0b73c9de0e023).
+
+[2023-11-24 12:41:43] [INFO] Inventory#2659 csatlakozott a Discordhoz!
+
+[2023-11-24 12:41:52] [INFO] 'gamika18' mondja: 'asd' (ID: 323902189904855061, 💲inventory-test)
+
+[2023-11-24 12:41:53] [INFO] Sikeres válasz érkezett a(z) 'asd' üzenetre a következőtől: 'gamika18' (ID: '323902189904855061') a '💲inventory-test' csatornán
+[2023-11-24 12:41:53] [INFO] A bot válasza: '`Ez egy segítség amit tudsz változtatni.`'
+
+[2023-11-24 12:43:04] [INFO] 'debtorn' mondja: 'asd' (ID: 345624155514732545, 💲inventory-test)
+
+[2023-11-24 12:43:05] [INFO] Sikeres válasz érkezett a(z) 'asd' üzenetre a következőtől: 'debtorn' (ID: '345624155514732545') a '💲inventory-test' csatornán
+[2023-11-24 12:43:05] [INFO] A bot válasza: '`Ez egy segítség amit tudsz változtatni.`'
+
+[2023-11-24 13:08:17] [WARNING] A bot lekapcsolódott.
+
+[2023-11-24 13:08:18] [INFO] Shard ID None has successfully RESUMED session ac956945155bbe00dcb0b73c9de0e023.
+
+[2023-11-24 13:30:35] [WARNING] PyNaCl is not installed, voice will NOT be supported
+[2023-11-24 13:30:35] [INFO] logging in using static token
+
+[2023-11-24 13:30:37] [INFO] Shard ID None has connected to Gateway (Session ID: abcd21517e593b8b4510a54911815dad).
+
+[2023-11-24 13:30:39] [INFO] Inventory#2659 csatlakozott a Discordhoz!
+
+[2023-11-24 13:30:59] [INFO] 'gamika18' mondja: 'a' (ID: 323902189904855061, 💲inventory-test)
+[2023-11-24 13:30:59] [ERROR] Érvénytelen bevitel: 400 Bad Request (error code: 50006); Ismeretlen bevitel: 'a'; a következőtől: 'gamika18' (ID: 323902189904855061)
+
+[2023-11-24 13:32:48] [WARNING] PyNaCl is not installed, voice will NOT be supported
+[2023-11-24 13:32:48] [INFO] logging in using static token
+
+[2023-11-24 13:32:50] [INFO] Shard ID None has connected to Gateway (Session ID: f4b31b12069ceb97c8c953dafe312418).
+
+[2023-11-24 13:32:52] [INFO] Inventory#2659 csatlakozott a Discordhoz!
+
+[2023-11-24 13:33:06] [INFO] 'gamika18' mondja: 'asd' (ID: 323902189904855061, 💲inventory-test)
+[2023-11-24 13:33:06] [INFO] Lekért felhasználói adatok: (4, 'gamika18', 323902189904855061, 1177157033624092683)
+
+[2023-11-24 13:33:07] [INFO] Sikeres válasz érkezett a(z) 'asd' üzenetre a következőtől: 'gamika18' (ID: '323902189904855061') a '💲inventory-test' csatornán
+[2023-11-24 13:33:07] [INFO] A bot válasza: '`Ez egy segítség amit tudsz változtatni.`'
+
+[2023-11-24 13:37:05] [WARNING] PyNaCl is not installed, voice will NOT be supported
+[2023-11-24 13:37:05] [INFO] logging in using static token
+
+[2023-11-24 13:37:07] [INFO] Shard ID None has connected to Gateway (Session ID: e0501e6205ce6991240a22a764e05091).
+
+[2023-11-24 13:37:09] [INFO] Inventory#2659 csatlakozott a Discordhoz!
+
+[2023-11-24 13:37:14] [INFO] 'gamika18' mondja: 'a' (ID: 323902189904855061, 💲inventory-test)
+
+[2023-11-24 13:37:15] [INFO] Lekért felhasználói adatok: (4, 'gamika18', 323902189904855061, 1177157033624092683)
+[2023-11-24 13:37:15] [ERROR] Érvénytelen bevitel: 400 Bad Request (error code: 50006); Ismeretlen bevitel: 'a'; a következőtől: 'gamika18' (ID: 323902189904855061)
+
+[2023-11-24 13:37:42] [INFO] 'gamika18' mondja: 'a' (ID: 323902189904855061, 💲inventory-test)
+[2023-11-24 13:37:42] [INFO] Lekért felhasználói adatok: (4, 'gamika18', 323902189904855061, 1177157033624092683)
+[2023-11-24 13:37:42] [ERROR] Érvénytelen bevitel: 400 Bad Request (error code: 50006); Ismeretlen bevitel: 'a'; a következőtől: 'gamika18' (ID: 323902189904855061)
+
+[2023-11-24 13:37:46] [INFO] 'gamika18' mondja: 'asd' (ID: 323902189904855061, 💲inventory-test)
+[2023-11-24 13:37:46] [INFO] Lekért felhasználói adatok: (4, 'gamika18', 323902189904855061, 1177157033624092683)
+
+[2023-11-24 13:37:47] [INFO] Sikeres válasz érkezett a(z) 'asd' üzenetre a következőtől: 'gamika18' (ID: '323902189904855061') a '💲inventory-test' csatornán
+[2023-11-24 13:37:47] [INFO] A bot válasza: '`Ez egy segítség amit tudsz változtatni.`'
+
+[2023-11-24 13:37:53] [INFO] 'gamika18' mondja: 'help' (ID: 323902189904855061, 💲inventory-test)
+
+[2023-11-24 13:37:54] [INFO] Lekért felhasználói adatok: (4, 'gamika18', 323902189904855061, 1177157033624092683)
+[2023-11-24 13:37:54] [INFO] Sikeres válasz érkezett a(z) 'help' üzenetre a következőtől: 'gamika18' (ID: '323902189904855061') a '💲inventory-test' csatornán
+[2023-11-24 13:37:54] [INFO] A bot válasza: '<discord.embeds.Embed object at 0x00000238F4A5A7A0>'
+
+[2023-11-24 13:40:23] [WARNING] PyNaCl is not installed, voice will NOT be supported
+[2023-11-24 13:40:23] [INFO] logging in using static token
+
+[2023-11-24 13:40:24] [INFO] Shard ID None has connected to Gateway (Session ID: 028d69c8d3a4990e3c19342b7e64b450).
+
+[2023-11-24 13:40:26] [INFO] Inventory#2659 csatlakozott a Discordhoz!
+
+[2023-11-24 13:40:41] [INFO] 'gamika18' mondja: 'a' (ID: 323902189904855061, 💲inventory-test)
+
+[2023-11-24 13:40:42] [ERROR] Érvénytelen bevitel: 400 Bad Request (error code: 50006); Ismeretlen bevitel: 'a'; a következőtől: 'gamika18' (ID: 323902189904855061)
+
+[2023-11-24 13:40:45] [INFO] 'gamika18' mondja: 'asd' (ID: 323902189904855061, 💲inventory-test)
+
+[2023-11-24 13:40:46] [INFO] Sikeres válasz érkezett a(z) 'asd' üzenetre a következőtől: 'gamika18' (ID: '323902189904855061') a '💲inventory-test' csatornán
+[2023-11-24 13:40:46] [INFO] A bot válasza: '`Ez egy segítség amit tudsz változtatni.`'
+
+[2023-11-24 13:41:39] [INFO] 'gamika18' mondja: 'asd' (ID: 323902189904855061, 💲inventory-test)
+[2023-11-24 13:41:39] [INFO] Sikeres válasz érkezett a(z) 'asd' üzenetre a következőtől: 'gamika18' (ID: '323902189904855061') a '💲inventory-test' csatornán
+[2023-11-24 13:41:39] [INFO] A bot válasza: '`Ez egy segítség amit tudsz változtatni.`'
+
+[2023-11-24 13:46:06] [INFO] 'gamika18' mondja: 'help' (ID: 323902189904855061, 💲inventory-test)
+
+[2023-11-24 13:46:07] [INFO] Sikeres válasz érkezett a(z) 'help' üzenetre a következőtől: 'gamika18' (ID: '323902189904855061') a '💲inventory-test' csatornán
+[2023-11-24 13:46:07] [INFO] A bot válasza: '<discord.embeds.Embed object at 0x000001D9F65B6830>'
+
+[2023-11-24 13:46:32] [INFO] 'gamika18' mondja: 'roll' (ID: 323902189904855061, 💲inventory-test)
+
+[2023-11-24 13:46:33] [INFO] Sikeres válasz érkezett a(z) 'roll' üzenetre a következőtől: 'gamika18' (ID: '323902189904855061') a '💲inventory-test' csatornán
+[2023-11-24 13:46:33] [INFO] A bot válasza: '1'
+
+[2023-11-24 13:55:51] [ERROR] Attempting a reconnect in 1.74s
+Traceback (most recent call last):
+  File "d:\Py\inventory\venv\lib\site-packages\discord\client.py", line 659, in connect
+    await self.ws.poll_event()
+  File "d:\Py\inventory\venv\lib\site-packages\discord\gateway.py", line 646, in poll_event
+    raise ConnectionClosed(self.socket, shard_id=self.shard_id, code=code) from None
+discord.errors.ConnectionClosed: Shard ID None WebSocket closed with 1000
+[2023-11-24 13:55:51] [WARNING] A bot lekapcsolódott.
+
+[2023-11-24 13:55:53] [INFO] Shard ID None has successfully RESUMED session 028d69c8d3a4990e3c19342b7e64b450.
+
+[2023-11-24 14:34:04] [WARNING] A bot lekapcsolódott.
+
+[2023-11-24 14:34:06] [INFO] Shard ID None has successfully RESUMED session 028d69c8d3a4990e3c19342b7e64b450.
+
+[2023-11-24 15:28:59] [INFO] 'gamika18' mondja: 'Logolj gec' (ID: 323902189904855061, 💲inventory-test)
+
+[2023-11-24 15:29:01] [ERROR] Érvénytelen bevitel: 400 Bad Request (error code: 50006); Ismeretlen bevitel: 'Logolj gec'; a következőtől: 'gamika18' (ID: 323902189904855061)
+
+[2023-11-24 16:08:19] [WARNING] A bot lekapcsolódott.
+
+[2023-11-24 16:08:20] [INFO] Shard ID None has successfully RESUMED session 028d69c8d3a4990e3c19342b7e64b450.
+
+[2023-11-24 16:35:55] [WARNING] A bot lekapcsolódott.
+
+[2023-11-24 16:35:57] [INFO] Shard ID None has successfully RESUMED session 028d69c8d3a4990e3c19342b7e64b450.
+
+[2023-11-24 17:01:31] [INFO] 'gamika18' mondja: 'a' (ID: 323902189904855061, 💲inventory-test)
+
+[2023-11-24 17:01:32] [ERROR] Érvénytelen bevitel: 400 Bad Request (error code: 50006); Ismeretlen bevitel: 'a'; a következőtől: 'gamika18' (ID: 323902189904855061)
+
+[2023-11-24 17:02:10] [INFO] 'gamika18' mondja: 'a' (ID: 323902189904855061, 💲inventory-test)
+
+[2023-11-24 17:02:11] [ERROR] Érvénytelen bevitel: 400 Bad Request (error code: 50006); Ismeretlen bevitel: 'a'; a következőtől: 'gamika18' (ID: 323902189904855061)
+
+[2023-11-24 17:02:14] [INFO] 'gamika18' mondja: 'a' (ID: 323902189904855061, 💲inventory-test)
+[2023-11-24 17:02:14] [ERROR] Érvénytelen bevitel: 400 Bad Request (error code: 50006); Ismeretlen bevitel: 'a'; a következőtől: 'gamika18' (ID: 323902189904855061)
+
+[2023-11-24 17:02:42] [INFO] 'gamika18' mondja: 'help' (ID: 323902189904855061, 💲inventory-test)
+
+[2023-11-24 17:02:43] [INFO] Sikeres válasz érkezett a(z) 'help' üzenetre a következőtől: 'gamika18' (ID: '323902189904855061') a '💲inventory-test' csatornán
+[2023-11-24 17:02:43] [INFO] A bot válasza: '<discord.embeds.Embed object at 0x000001D9F6ED3400>'
+
+[2023-11-24 17:02:54] [INFO] 'gamika18' mondja: 'hello' (ID: 323902189904855061, 💲inventory-test)
+
+[2023-11-24 17:02:55] [INFO] Sikeres válasz érkezett a(z) 'hello' üzenetre a következőtől: 'gamika18' (ID: '323902189904855061') a '💲inventory-test' csatornán
+[2023-11-24 17:02:55] [INFO] A bot válasza: 'Hello!'
+
+[2023-11-24 17:03:45] [INFO] 'gamika18' mondja: 'a' (ID: 323902189904855061, 💲inventory-test)
+
+[2023-11-24 17:03:46] [ERROR] Érvénytelen bevitel: 400 Bad Request (error code: 50006); Ismeretlen bevitel: 'a'; a következőtől: 'gamika18' (ID: 323902189904855061)
+
+[2023-11-24 17:05:27] [INFO] 'gamika18' mondja: 'a' (ID: 323902189904855061, 💲inventory-test)
+
+[2023-11-24 17:05:28] [ERROR] Érvénytelen bevitel: 400 Bad Request (error code: 50006); Ismeretlen bevitel: 'a'; a következőtől: 'gamika18' (ID: 323902189904855061)
+
+[2023-11-24 17:06:16] [INFO] 'gamika18' mondja: 'roll' (ID: 323902189904855061, 💲inventory-test)
+
+[2023-11-24 17:06:17] [INFO] Sikeres válasz érkezett a(z) 'roll' üzenetre a következőtől: 'gamika18' (ID: '323902189904855061') a '💲inventory-test' csatornán
+[2023-11-24 17:06:17] [INFO] A bot válasza: '4'
+
+[2023-11-24 20:20:03] [WARNING] A bot lekapcsolódott.
+[2023-11-24 20:20:03] [INFO] Shard ID None has successfully RESUMED session 028d69c8d3a4990e3c19342b7e64b450.
+
+[2023-11-24 21:40:26] [INFO] 'gamika18' mondja: 'Kcd' (ID: 323902189904855061, 🔻drops)
+
+[2023-11-24 21:40:27] [INFO] 'Karuta#1280' mondja: '' (ID: 646937666251915264, 🔻drops)
+[2023-11-24 21:40:27] [ERROR] Érvénytelen bevitel: 400 Bad Request (error code: 50006); Ismeretlen bevitel: 'Kcd'; a következőtől: 'gamika18' (ID: 323902189904855061)
+[2023-11-24 21:40:27] [ERROR] Érvénytelen bevitel: 400 Bad Request (error code: 50006); Ismeretlen bevitel: ''; a következőtől: 'Karuta#1280' (ID: 646937666251915264)
+
+[2023-11-24 21:40:28] [INFO] 'gamika18' mondja: 'Krm' (ID: 323902189904855061, 🔻drops)
+[2023-11-24 21:40:28] [ERROR] Érvénytelen bevitel: 400 Bad Request (error code: 50006); Ismeretlen bevitel: 'Krm'; a következőtől: 'gamika18' (ID: 323902189904855061)
+[2023-11-24 21:40:28] [INFO] 'Karuta#1280' mondja: '' (ID: 646937666251915264, 🔻drops)
+[2023-11-24 21:40:28] [ERROR] Érvénytelen bevitel: 400 Bad Request (error code: 50006); Ismeretlen bevitel: ''; a következőtől: 'Karuta#1280' (ID: 646937666251915264)
+
+[2023-11-24 21:40:32] [INFO] 'gamika18' mondja: 'Kjb' (ID: 323902189904855061, 🔻drops)
+[2023-11-24 21:40:32] [ERROR] Érvénytelen bevitel: 400 Bad Request (error code: 50006); Ismeretlen bevitel: 'Kjb'; a következőtől: 'gamika18' (ID: 323902189904855061)
+[2023-11-24 21:40:32] [INFO] 'Karuta#1280' mondja: '' (ID: 646937666251915264, 🔻drops)
+[2023-11-24 21:40:32] [ERROR] Érvénytelen bevitel: 400 Bad Request (error code: 50006); Ismeretlen bevitel: ''; a következőtől: 'Karuta#1280' (ID: 646937666251915264)
+
+[2023-11-24 21:40:35] [INFO] 'gamika18' mondja: 'Kn' (ID: 323902189904855061, 🔻drops)
+
+[2023-11-24 21:40:36] [ERROR] Érvénytelen bevitel: 400 Bad Request (error code: 50006); Ismeretlen bevitel: 'Kn'; a következőtől: 'gamika18' (ID: 323902189904855061)
+[2023-11-24 21:40:36] [INFO] 'Karuta#1280' mondja: '' (ID: 646937666251915264, 🔻drops)
+[2023-11-24 21:40:36] [ERROR] Érvénytelen bevitel: 400 Bad Request (error code: 50006); Ismeretlen bevitel: ''; a következőtől: 'Karuta#1280' (ID: 646937666251915264)
+
+[2023-11-24 21:40:42] [INFO] 'gamika18' mondja: 'Kjn abcde bone' (ID: 323902189904855061, 🔻drops)
+[2023-11-24 21:40:42] [ERROR] Érvénytelen bevitel: 400 Bad Request (error code: 50006); Ismeretlen bevitel: 'Kjn abcde bone'; a következőtől: 'gamika18' (ID: 323902189904855061)
+[2023-11-24 21:40:42] [INFO] 'Karuta#1280' mondja: '<@323902189904855061>, slots **A, B, C, D, E** have been assigned to the `bone` node.' (ID: 646937666251915264, 🔻drops)
+[2023-11-24 21:40:42] [ERROR] Érvénytelen bevitel: 400 Bad Request (error code: 50006); Ismeretlen bevitel: '<@323902189904855061>, slots **A, B, C, D, E** have been assigned to the `bone` node.'; a következőtől: 'Karuta#1280' (ID: 646937666251915264)
+
+[2023-11-24 21:40:43] [INFO] 'gamika18' mondja: 'Kw' (ID: 323902189904855061, 🔻drops)
+[2023-11-24 21:40:43] [ERROR] Érvénytelen bevitel: 400 Bad Request (error code: 50006); Ismeretlen bevitel: 'Kw'; a következőtől: 'gamika18' (ID: 323902189904855061)
+[2023-11-24 21:40:43] [INFO] 'Karuta#1280' mondja: '' (ID: 646937666251915264, 🔻drops)
+[2023-11-24 21:40:43] [ERROR] Érvénytelen bevitel: 400 Bad Request (error code: 50006); Ismeretlen bevitel: ''; a következőtől: 'Karuta#1280' (ID: 646937666251915264)
+
+[2023-11-24 21:40:47] [INFO] 'gamika18' mondja: 'Kvi' (ID: 323902189904855061, 🔻drops)
+
+[2023-11-24 21:40:48] [ERROR] Érvénytelen bevitel: 400 Bad Request (error code: 50006); Ismeretlen bevitel: 'Kvi'; a következőtől: 'gamika18' (ID: 323902189904855061)
+[2023-11-24 21:40:48] [INFO] 'Karuta#1280' mondja: '<@323902189904855061>, you no longer have access to `v2zctjq`. Specify a new card code.' (ID: 646937666251915264, 🔻drops)
+[2023-11-24 21:40:48] [ERROR] Érvénytelen bevitel: 400 Bad Request (error code: 50006); Ismeretlen bevitel: '<@323902189904855061>, you no longer have access to `v2zctjq`. Specify a new card code.'; a következőtől: 'Karuta#1280' (ID: 646937666251915264)
+
+[2023-11-24 21:40:49] [INFO] 'gamika18' mondja: 'Kbi' (ID: 323902189904855061, 🔻drops)
+
+[2023-11-24 21:40:50] [ERROR] Érvénytelen bevitel: 400 Bad Request (error code: 50006); Ismeretlen bevitel: 'Kbi'; a következőtől: 'gamika18' (ID: 323902189904855061)
+[2023-11-24 21:40:50] [INFO] 'Karuta#1280' mondja: '' (ID: 646937666251915264, 🔻drops)
+[2023-11-24 21:40:50] [ERROR] Érvénytelen bevitel: 400 Bad Request (error code: 50006); Ismeretlen bevitel: ''; a következőtől: 'Karuta#1280' (ID: 646937666251915264)
+
+[2023-11-24 21:41:26] [INFO] 'kiskacsa.' mondja: 'Kd' (ID: 459495067791654913, 🔻drops)
+
+[2023-11-24 21:41:27] [ERROR] Érvénytelen bevitel: 400 Bad Request (error code: 50006); Ismeretlen bevitel: 'Kd'; a következőtől: 'kiskacsa.' (ID: 459495067791654913)
+
+[2023-11-24 21:41:28] [INFO] 'Karuta#1280' mondja: '<@459495067791654913> is dropping 4 cards!' (ID: 646937666251915264, 🔻drops)
+[2023-11-24 21:41:28] [ERROR] Érvénytelen bevitel: 400 Bad Request (error code: 50006); Ismeretlen bevitel: '<@459495067791654913> is dropping 4 cards!'; a következőtől: 'Karuta#1280' (ID: 646937666251915264)
+
+[2023-11-24 21:41:33] [INFO] 'Karuta#1280' mondja: '<@459495067791654913> took the **K.K.** card `vwjtlnw`! Great, it's in **excellent** condition!' (ID: 646937666251915264, 🔻drops)
+[2023-11-24 21:41:33] [ERROR] Érvénytelen bevitel: 400 Bad Request (error code: 50006); Ismeretlen bevitel: '<@459495067791654913> took the **K.K.** card `vwjtlnw`! Great, it's in **excellent** condition!'; a következőtől: 'Karuta#1280' (ID: 646937666251915264)
+
+[2023-11-24 21:41:34] [INFO] 'kiskacsa.' mondja: 'Klu' (ID: 459495067791654913, 🔻drops)
+[2023-11-24 21:41:34] [ERROR] Érvénytelen bevitel: 400 Bad Request (error code: 50006); Ismeretlen bevitel: 'Klu'; a következőtől: 'kiskacsa.' (ID: 459495067791654913)
+[2023-11-24 21:41:34] [INFO] 'Karuta#1280' mondja: '' (ID: 646937666251915264, 🔻drops)
+[2023-11-24 21:41:34] [ERROR] Érvénytelen bevitel: 400 Bad Request (error code: 50006); Ismeretlen bevitel: ''; a következőtől: 'Karuta#1280' (ID: 646937666251915264)
+
+[2023-11-24 21:41:37] [INFO] 'kiskacsa.' mondja: 'Kt kuka' (ID: 459495067791654913, 🔻drops)
+[2023-11-24 21:41:37] [ERROR] Érvénytelen bevitel: 400 Bad Request (error code: 50006); Ismeretlen bevitel: 'Kt kuka'; a következőtől: 'kiskacsa.' (ID: 459495067791654913)
+[2023-11-24 21:41:37] [INFO] 'Karuta#1280' mondja: '<@459495067791654913>, the **K.K.** card has been tagged successfully.' (ID: 646937666251915264, 🔻drops)
+[2023-11-24 21:41:37] [ERROR] Érvénytelen bevitel: 400 Bad Request (error code: 50006); Ismeretlen bevitel: '<@459495067791654913>, the **K.K.** card has been tagged successfully.'; a következőtől: 'Karuta#1280' (ID: 646937666251915264)
+
+[2023-11-24 21:41:38] [INFO] 'kiskacsa.' mondja: 'Krm' (ID: 459495067791654913, 🔻drops)
+[2023-11-24 21:41:38] [ERROR] Érvénytelen bevitel: 400 Bad Request (error code: 50006); Ismeretlen bevitel: 'Krm'; a következőtől: 'kiskacsa.' (ID: 459495067791654913)
+[2023-11-24 21:41:38] [INFO] 'Karuta#1280' mondja: '' (ID: 646937666251915264, 🔻drops)
+
+[2023-11-24 21:41:39] [ERROR] Érvénytelen bevitel: 400 Bad Request (error code: 50006); Ismeretlen bevitel: ''; a következőtől: 'Karuta#1280' (ID: 646937666251915264)
+
+[2023-11-24 22:07:42] [INFO] 'gamika18' mondja: 'Kd' (ID: 323902189904855061, 🔻drops)
+
+[2023-11-24 22:07:43] [ERROR] Érvénytelen bevitel: 400 Bad Request (error code: 50006); Ismeretlen bevitel: 'Kd'; a következőtől: 'gamika18' (ID: 323902189904855061)
+
+[2023-11-24 22:07:44] [INFO] 'Karuta#1280' mondja: '<@323902189904855061> is dropping 3 cards!' (ID: 646937666251915264, 🔻drops)
+[2023-11-24 22:07:44] [ERROR] Érvénytelen bevitel: 400 Bad Request (error code: 50006); Ismeretlen bevitel: '<@323902189904855061> is dropping 3 cards!'; a következőtől: 'Karuta#1280' (ID: 646937666251915264)
+
+[2023-11-24 22:07:48] [INFO] 'Karuta#1280' mondja: '<@323902189904855061> took the **Gimul** card `vwj7kd1`! Its condition is quite **poor**.' (ID: 646937666251915264, 🔻drops)
+[2023-11-24 22:07:48] [ERROR] Érvénytelen bevitel: 400 Bad Request (error code: 50006); Ismeretlen bevitel: '<@323902189904855061> took the **Gimul** card `vwj7kd1`! Its condition is quite **poor**.'; a következőtől: 'Karuta#1280' (ID: 646937666251915264)
+
+[2023-11-24 22:07:51] [INFO] 'gamika18' mondja: 'Kt kuka' (ID: 323902189904855061, 🔻drops)
+[2023-11-24 22:07:51] [ERROR] Érvénytelen bevitel: 400 Bad Request (error code: 50006); Ismeretlen bevitel: 'Kt kuka'; a következőtől: 'gamika18' (ID: 323902189904855061)
+[2023-11-24 22:07:51] [INFO] 'Karuta#1280' mondja: '<@323902189904855061>, the **Gimul** card has been tagged successfully.' (ID: 646937666251915264, 🔻drops)
+[2023-11-24 22:07:51] [ERROR] Érvénytelen bevitel: 400 Bad Request (error code: 50006); Ismeretlen bevitel: '<@323902189904855061>, the **Gimul** card has been tagged successfully.'; a következőtől: 'Karuta#1280' (ID: 646937666251915264)
+
+[2023-11-24 22:08:10] [INFO] 'kiskacsa.' mondja: 'Krm' (ID: 459495067791654913, 🔻drops)
+[2023-11-24 22:08:10] [ERROR] Érvénytelen bevitel: 400 Bad Request (error code: 50006); Ismeretlen bevitel: 'Krm'; a következőtől: 'kiskacsa.' (ID: 459495067791654913)
+[2023-11-24 22:08:10] [INFO] 'Karuta#1280' mondja: '' (ID: 646937666251915264, 🔻drops)
+
+[2023-11-24 22:08:11] [ERROR] Érvénytelen bevitel: 400 Bad Request (error code: 50006); Ismeretlen bevitel: ''; a következőtől: 'Karuta#1280' (ID: 646937666251915264)
+
+[2023-11-24 22:13:56] [WARNING] A bot lekapcsolódott.
+
+[2023-11-24 22:13:57] [INFO] Shard ID None has successfully RESUMED session 028d69c8d3a4990e3c19342b7e64b450.
+
+[2023-11-24 23:10:46] [INFO] 'kiskacsa.' mondja: 'Kd' (ID: 459495067791654913, 🔻drops)
+[2023-11-24 23:10:46] [ERROR] Érvénytelen bevitel: 400 Bad Request (error code: 50006); Ismeretlen bevitel: 'Kd'; a következőtől: 'kiskacsa.' (ID: 459495067791654913)
+
+[2023-11-24 23:10:48] [INFO] 'Karuta#1280' mondja: '<@459495067791654913> is dropping 4 cards!' (ID: 646937666251915264, 🔻drops)
+[2023-11-24 23:10:48] [ERROR] Érvénytelen bevitel: 400 Bad Request (error code: 50006); Ismeretlen bevitel: '<@459495067791654913> is dropping 4 cards!'; a következőtől: 'Karuta#1280' (ID: 646937666251915264)
+
+[2023-11-24 23:10:53] [INFO] 'Karuta#1280' mondja: '<@459495067791654913> took the **Eris** card `vwj76fr`! It's in **good** condition.' (ID: 646937666251915264, 🔻drops)
+[2023-11-24 23:10:53] [ERROR] Érvénytelen bevitel: 400 Bad Request (error code: 50006); Ismeretlen bevitel: '<@459495067791654913> took the **Eris** card `vwj76fr`! It's in **good** condition.'; a következőtől: 'Karuta#1280' (ID: 646937666251915264)
+[2023-11-24 23:10:53] [INFO] 'Queen's Right Leg#7475' mondja: '**Dropped Cards (Massdrop Mode)**
+<:4normal:1068872357298589786> `♡1    ` Tsukimichi: Moonlit Fantasy · **Eris** [MID-PRINT] (28%)' (ID: 1006025546045591632, 🔻drops)
+[2023-11-24 23:10:53] [ERROR] Érvénytelen bevitel: 400 Bad Request (error code: 50006); Ismeretlen bevitel: '**Dropped Cards (Massdrop Mode)**
+<:4normal:1068872357298589786> `♡1    ` Tsukimichi: Moonlit Fantasy · **Eris** [MID-PRINT] (28%)'; a következőtől: 'Queen's Right Leg#7475' (ID: 1006025546045591632)
+
+[2023-11-24 23:11:00] [INFO] 'kiskacsa.' mondja: 'Kt ed' (ID: 459495067791654913, 🔻drops)
+[2023-11-24 23:11:00] [ERROR] Érvénytelen bevitel: 400 Bad Request (error code: 50006); Ismeretlen bevitel: 'Kt ed'; a következőtől: 'kiskacsa.' (ID: 459495067791654913)
+
+[2023-11-24 23:11:01] [INFO] 'Karuta#1280' mondja: '<@459495067791654913>, the **Eris** card has been tagged successfully.' (ID: 646937666251915264, 🔻drops)
+[2023-11-24 23:11:01] [ERROR] Érvénytelen bevitel: 400 Bad Request (error code: 50006); Ismeretlen bevitel: '<@459495067791654913>, the **Eris** card has been tagged successfully.'; a következőtől: 'Karuta#1280' (ID: 646937666251915264)
+
+[2023-11-24 23:11:19] [INFO] 'kiskacsa.' mondja: 'Kn' (ID: 459495067791654913, 🔻drops)
+[2023-11-24 23:11:19] [ERROR] Érvénytelen bevitel: 400 Bad Request (error code: 50006); Ismeretlen bevitel: 'Kn'; a következőtől: 'kiskacsa.' (ID: 459495067791654913)
+[2023-11-24 23:11:19] [INFO] 'Karuta#1280' mondja: '' (ID: 646937666251915264, 🔻drops)
+[2023-11-24 23:11:19] [ERROR] Érvénytelen bevitel: 400 Bad Request (error code: 50006); Ismeretlen bevitel: ''; a következőtől: 'Karuta#1280' (ID: 646937666251915264)
+
+[2023-11-24 23:11:35] [INFO] 'kiskacsa.' mondja: 'Kjn abcde iron' (ID: 459495067791654913, 🔻drops)
+[2023-11-24 23:11:35] [ERROR] Érvénytelen bevitel: 400 Bad Request (error code: 50006); Ismeretlen bevitel: 'Kjn abcde iron'; a következőtől: 'kiskacsa.' (ID: 459495067791654913)
+[2023-11-24 23:11:35] [INFO] 'Karuta#1280' mondja: '<@459495067791654913>, slots **A, B, C, D, E** have been assigned to the `iron` node.' (ID: 646937666251915264, 🔻drops)
+[2023-11-24 23:11:35] [ERROR] Érvénytelen bevitel: 400 Bad Request (error code: 50006); Ismeretlen bevitel: '<@459495067791654913>, slots **A, B, C, D, E** have been assigned to the `iron` node.'; a következőtől: 'Karuta#1280' (ID: 646937666251915264)
+
+[2023-11-24 23:11:38] [INFO] 'kiskacsa.' mondja: 'Ke' (ID: 459495067791654913, 🔻drops)
+[2023-11-24 23:11:38] [ERROR] Érvénytelen bevitel: 400 Bad Request (error code: 50006); Ismeretlen bevitel: 'Ke'; a következőtől: 'kiskacsa.' (ID: 459495067791654913)
+
+[2023-11-24 23:11:40] [INFO] 'kiskacsa.' mondja: 'Kw' (ID: 459495067791654913, 🔻drops)
+[2023-11-24 23:11:40] [ERROR] Érvénytelen bevitel: 400 Bad Request (error code: 50006); Ismeretlen bevitel: 'Kw'; a következőtől: 'kiskacsa.' (ID: 459495067791654913)
+[2023-11-24 23:11:40] [INFO] 'Karuta#1280' mondja: '' (ID: 646937666251915264, 🔻drops)
+
+[2023-11-24 23:11:41] [ERROR] Érvénytelen bevitel: 400 Bad Request (error code: 50006); Ismeretlen bevitel: ''; a következőtől: 'Karuta#1280' (ID: 646937666251915264)
+
+[2023-11-24 23:11:49] [INFO] 'kiskacsa.' mondja: 'Kjb' (ID: 459495067791654913, 🔻drops)
+[2023-11-24 23:11:49] [ERROR] Érvénytelen bevitel: 400 Bad Request (error code: 50006); Ismeretlen bevitel: 'Kjb'; a következőtől: 'kiskacsa.' (ID: 459495067791654913)
+
+[2023-11-24 23:11:50] [INFO] 'Karuta#1280' mondja: '' (ID: 646937666251915264, 🔻drops)
+[2023-11-24 23:11:50] [ERROR] Érvénytelen bevitel: 400 Bad Request (error code: 50006); Ismeretlen bevitel: ''; a következőtől: 'Karuta#1280' (ID: 646937666251915264)

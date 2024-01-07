@@ -1,0 +1,21 @@
+TOKEN = MTE3Njk4ODI5NDQ1MDUzMjQxMw.GlPd9O.jYDpI7qxjzDQeqBd6YWbF028uap0mn0fBW6vD4
+INVITE LINK = https://discord.com/api/oauth2/authorize?client_id=1176988294450532413&permissions=379969&scope=bot
+
+
+
+# Kapcsolódás az adatbázishoz
+conn = sqlite3.connect('users.db')
+cursor = conn.cursor()
+
+# Felhasználók tábla létrehozása
+cursor.execute('''
+    CREATE TABLE IF NOT EXISTS users (
+        id INTEGER PRIMARY KEY AUTOINCREMENT,
+        name TEXT NOT NULL,
+        user_id INTEGER NOT NULL,
+        channel_id INTEGER NOT NULL
+    )
+''')
+
+# Adatbázis lezárása
+conn.close()

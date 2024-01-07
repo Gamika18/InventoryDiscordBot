@@ -1,0 +1,19 @@
+
+[2024-01-06 11:59:12] [WARNING] PyNaCl is not installed, voice will NOT be supported
+[2024-01-06 11:59:12] [INFO] logging in using static token
+
+[2024-01-06 11:59:13] [INFO] Shard ID None has connected to Gateway (Session ID: 00d09adda8873f160860b9bad92895fb).
+
+[2024-01-06 11:59:15] [INFO] Inventory#2659 csatlakozott a Discordhoz!
+
+[2024-01-06 11:59:52] [WARNING] PyNaCl is not installed, voice will NOT be supported
+[2024-01-06 11:59:52] [INFO] logging in using static token
+
+[2024-01-06 11:59:53] [INFO] Shard ID None has connected to Gateway (Session ID: c4504cbe33835ee2805e5866649a8b1e).
+
+[2024-01-06 11:59:55] [INFO] Inventory#2659 csatlakozott a Discordhoz!
+
+[2024-01-06 12:00:01] [INFO] 'gamika18' mondja: 'asd' (ID: 323902189904855061, 💲inventory-test)
+
+[2024-01-06 12:00:02] [INFO] Sikeres válasz érkezett a(z) 'asd' üzenetre a következőtől: 'gamika18' (ID: '323902189904855061') a '💲inventory-test' csatornán
+[2024-01-06 12:00:02] [INFO] A bot válasza: '`Ez egy segítség amit tudsz változtatni.`'
