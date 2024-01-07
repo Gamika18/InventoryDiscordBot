@@ -1,0 +1,24 @@
+
+[2024-01-07 10:59:17] [WARNING] PyNaCl is not installed, voice will NOT be supported
+[2024-01-07 10:59:17] [INFO] logging in using static token
+
+[2024-01-07 11:00:45] [WARNING] PyNaCl is not installed, voice will NOT be supported
+[2024-01-07 11:00:45] [INFO] logging in using static token
+
+[2024-01-07 11:00:47] [INFO] Shard ID None has connected to Gateway (Session ID: b3d1b0f7df09126f52758dc08180991a).
+
+[2024-01-07 11:00:49] [INFO] Inventory#2659 csatlakozott a Discordhoz!
+
+[2024-01-07 11:01:24] [INFO] 'gamika18' mondja: 'kd' (ID: 323902189904855061, 🔻drops)
+[2024-01-07 11:01:24] [ERROR] Érvénytelen bevitel: 400 Bad Request (error code: 50006); Ismeretlen bevitel: 'kd'; a következőtől: 'gamika18' (ID: 323902189904855061)
+
+[2024-01-07 11:01:26] [INFO] 'Karuta#1280' mondja: '<@323902189904855061> is dropping 3 cards!' (ID: 646937666251915264, 🔻drops)
+[2024-01-07 11:01:26] [ERROR] Érvénytelen bevitel: 400 Bad Request (error code: 50006); Ismeretlen bevitel: '<@323902189904855061> is dropping 3 cards!'; a következőtől: 'Karuta#1280' (ID: 646937666251915264)
+
+[2024-01-07 11:01:31] [INFO] 'Karuta#1280' mondja: '<@323902189904855061> took the **Sayaka Koyanagi** card `vkk97vj`! It's in **good** condition.' (ID: 646937666251915264, 🔻drops)
+[2024-01-07 11:01:31] [ERROR] Érvénytelen bevitel: 400 Bad Request (error code: 50006); Ismeretlen bevitel: '<@323902189904855061> took the **Sayaka Koyanagi** card `vkk97vj`! It's in **good** condition.'; a következőtől: 'Karuta#1280' (ID: 646937666251915264)
+[2024-01-07 11:01:31] [INFO] 'gamika18' mondja: 'kt kuka' (ID: 323902189904855061, 🔻drops)
+
+[2024-01-07 11:01:32] [ERROR] Érvénytelen bevitel: 400 Bad Request (error code: 50006); Ismeretlen bevitel: 'kt kuka'; a következőtől: 'gamika18' (ID: 323902189904855061)
+[2024-01-07 11:01:32] [INFO] 'Karuta#1280' mondja: '<@323902189904855061>, the **Sayaka Koyanagi** card has been tagged successfully.' (ID: 646937666251915264, 🔻drops)
+[2024-01-07 11:01:32] [ERROR] Érvénytelen bevitel: 400 Bad Request (error code: 50006); Ismeretlen bevitel: '<@323902189904855061>, the **Sayaka Koyanagi** card has been tagged successfully.'; a következőtől: 'Karuta#1280' (ID: 646937666251915264)
