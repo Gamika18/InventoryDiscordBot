@@ -209,3 +209,21 @@
 [2024-01-09 21:36:00] [INFO] A bot válasza: '`Ez egy segítség amit tudsz változtatni.`'
 
 [2024-01-09 21:36:24] [INFO] 'Jockie Music#8158' mondja: '' (ID: 411916947773587456, 🎶zene)
+[2024-01-09 21:36:24] [ERROR] Érvénytelen bevitel: 400 Bad Request (error code: 50006); Ismeretlen bevitel: ''; a következőtől: 'Jockie Music#8158' (ID: 411916947773587456)
+
+[2024-01-09 21:37:37] [INFO] 'Jockie Music#8158' mondja: '' (ID: 411916947773587456, 🎶zene)
+[2024-01-09 21:37:37] [ERROR] Érvénytelen bevitel: 400 Bad Request (error code: 50006); Ismeretlen bevitel: ''; a következőtől: 'Jockie Music#8158' (ID: 411916947773587456)
+
+[2024-01-09 21:38:28] [WARNING] A bot lekapcsolódott.
+
+[2024-01-09 21:38:29] [INFO] Shard ID None session has been invalidated.
+[2024-01-09 21:38:29] [WARNING] A bot lekapcsolódott.
+
+[2024-01-09 21:38:35] [WARNING] A bot lekapcsolódott.
+
+[2024-01-09 21:46:51] [WARNING] PyNaCl is not installed, voice will NOT be supported
+[2024-01-09 21:46:51] [INFO] logging in using static token
+
+[2024-01-09 21:46:53] [INFO] Shard ID None has connected to Gateway (Session ID: 8619f7de7007ca82259de515cda81005).
+
+[2024-01-09 21:46:55] [INFO] Inventory#2659 csatlakozott a Discordhoz!

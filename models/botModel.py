@@ -1,4 +1,5 @@
 # botModel.py
+import base64
 import sqlite3
 
 
@@ -13,6 +14,9 @@ def get_bot_token():
     conn.close()
 
     if bot_token_record:
-        return bot_token_record[0]
+        # Dekódolja a token-t Base64 kódolásból
+        decoded_bytes = base64.b64decode(bot_token_record[0])
+        decoded_token = decoded_bytes.decode('utf-8')
+        return decoded_token
     else:
         raise ValueError("Nem található token az adatbázisban.")
