@@ -3,6 +3,7 @@ from logging.handlers import TimedRotatingFileHandler
 from datetime import datetime
 import os
 
+
 class CustomFormatter(logging.Formatter):
     def __init__(self, *args, **kwargs):
         super().__init__(*args, **kwargs)
@@ -10,7 +11,7 @@ class CustomFormatter(logging.Formatter):
 
     def format(self, record):
         current_log_date = datetime.utcfromtimestamp(record.created).strftime('%Y-%m-%d %H:%M:%S')
-        
+
         # Ellenőrzi, hogy a mostani és az előző log dátuma megegyezik-e másodpercre pontosan
         if self.last_log_date is not None and current_log_date == self.last_log_date:
             # Ha igen, nem tesz hozzá üres sort az üzenet elé
@@ -21,6 +22,7 @@ class CustomFormatter(logging.Formatter):
             self.last_log_date = current_log_date
 
         return formatted_message
+
 
 def setup_logger():
     # Az aktuális dátum formázása

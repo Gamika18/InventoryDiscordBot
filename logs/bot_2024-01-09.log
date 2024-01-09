@@ -1,0 +1,211 @@
+
+[2024-01-09 20:48:06] [WARNING] PyNaCl is not installed, voice will NOT be supported
+[2024-01-09 20:48:06] [INFO] logging in using static token
+
+[2024-01-09 20:48:08] [INFO] Shard ID None has connected to Gateway (Session ID: 7053ea20ab13478077ed63e50c60765f).
+
+[2024-01-09 20:48:10] [INFO] Inventory#2659 csatlakozott a Discordhoz!
+
+[2024-01-09 20:48:39] [INFO] 'gamika18' mondja: 'asd' (ID: 323902189904855061, 💲inventory-test)
+[2024-01-09 20:48:39] [INFO] Sikeres válasz érkezett a(z) 'asd' üzenetre a következőtől: 'gamika18' (ID: '323902189904855061') a '💲inventory-test' csatornán
+[2024-01-09 20:48:39] [INFO] A bot válasza: '`Ez egy segítség amit tudsz változtatni.`'
+
+[2024-01-09 20:49:30] [INFO] 'strawhat0821' mondja: 'Kd' (ID: 365885951240568832, 🔻drops)
+
+[2024-01-09 20:49:31] [ERROR] Érvénytelen bevitel: 400 Bad Request (error code: 50006); Ismeretlen bevitel: 'Kd'; a következőtől: 'strawhat0821' (ID: 365885951240568832)
+
+[2024-01-09 20:49:32] [INFO] 'Karuta#1280' mondja: '<@365885951240568832> is dropping 3 cards!' (ID: 646937666251915264, 🔻drops)
+[2024-01-09 20:49:32] [ERROR] Érvénytelen bevitel: 400 Bad Request (error code: 50006); Ismeretlen bevitel: '<@365885951240568832> is dropping 3 cards!'; a következőtől: 'Karuta#1280' (ID: 646937666251915264)
+
+[2024-01-09 20:50:11] [INFO] 'gamika18' mondja: 'asd' (ID: 323902189904855061, 💲inventory-test)
+[2024-01-09 20:50:11] [ERROR] Hiba az adatbázissal való interakció közben: table users has no column named created_at
+
+[2024-01-09 20:50:12] [INFO] Sikeres válasz érkezett a(z) 'asd' üzenetre a következőtől: 'gamika18' (ID: '323902189904855061') a '💲inventory-test' csatornán
+[2024-01-09 20:50:12] [INFO] A bot válasza: '`Ez egy segítség amit tudsz változtatni.`'
+
+[2024-01-09 20:50:55] [INFO] 'Jockie Music#8158' mondja: '' (ID: 411916947773587456, 🎶zene)
+[2024-01-09 20:50:55] [ERROR] Hiba az adatbázissal való interakció közben: table users has no column named created_at
+
+[2024-01-09 20:50:56] [ERROR] Érvénytelen bevitel: 400 Bad Request (error code: 50006); Ismeretlen bevitel: ''; a következőtől: 'Jockie Music#8158' (ID: 411916947773587456)
+
+[2024-01-09 20:51:41] [WARNING] PyNaCl is not installed, voice will NOT be supported
+[2024-01-09 20:51:41] [INFO] logging in using static token
+
+[2024-01-09 20:51:42] [INFO] Shard ID None has connected to Gateway (Session ID: cbae31c574ad289804a867fc08beac68).
+
+[2024-01-09 20:51:44] [INFO] Inventory#2659 csatlakozott a Discordhoz!
+
+[2024-01-09 20:51:46] [INFO] 'gamika18' mondja: 'asd' (ID: 323902189904855061, 💲inventory-test)
+[2024-01-09 20:51:46] [ERROR] Hiba az adatbázissal való interakció közben: table users has no column named created_at
+[2024-01-09 20:51:46] [INFO] Sikeres válasz érkezett a(z) 'asd' üzenetre a következőtől: 'gamika18' (ID: '323902189904855061') a '💲inventory-test' csatornán
+[2024-01-09 20:51:46] [INFO] A bot válasza: '`Ez egy segítség amit tudsz változtatni.`'
+
+[2024-01-09 20:53:21] [INFO] 'gamika18' mondja: 'a' (ID: 323902189904855061, 💲inventory-test)
+[2024-01-09 20:53:21] [ERROR] Hiba az adatbázissal való interakció közben: table users has no column named created_at
+
+[2024-01-09 20:53:22] [ERROR] Érvénytelen bevitel: 400 Bad Request (error code: 50006); Ismeretlen bevitel: 'a'; a következőtől: 'gamika18' (ID: 323902189904855061)
+
+[2024-01-09 20:53:58] [WARNING] PyNaCl is not installed, voice will NOT be supported
+[2024-01-09 20:53:58] [INFO] logging in using static token
+
+[2024-01-09 20:53:59] [INFO] Shard ID None has connected to Gateway (Session ID: 7c9315d504a44c6c8a13a7b855ef7351).
+
+[2024-01-09 20:54:01] [INFO] Inventory#2659 csatlakozott a Discordhoz!
+
+[2024-01-09 20:54:02] [INFO] 'gamika18' mondja: 'asd' (ID: 323902189904855061, 💲inventory-test)
+[2024-01-09 20:54:02] [INFO] Lekért felhasználói adatok: (20, 'gamika18', 323902189904855061, 1177157033624092683)
+
+[2024-01-09 20:54:03] [INFO] Sikeres válasz érkezett a(z) 'asd' üzenetre a következőtől: 'gamika18' (ID: '323902189904855061') a '💲inventory-test' csatornán
+[2024-01-09 20:54:03] [INFO] A bot válasza: '`Ez egy segítség amit tudsz változtatni.`'
+
+[2024-01-09 20:55:28] [WARNING] PyNaCl is not installed, voice will NOT be supported
+[2024-01-09 20:55:28] [INFO] logging in using static token
+
+[2024-01-09 20:55:29] [INFO] Shard ID None has connected to Gateway (Session ID: 4bd4c07a713e3fbe58554ae1363b2bb0).
+
+[2024-01-09 20:55:31] [INFO] Inventory#2659 csatlakozott a Discordhoz!
+
+[2024-01-09 20:55:32] [INFO] 'gamika18' mondja: 'asd' (ID: 323902189904855061, 💲inventory-test)
+[2024-01-09 20:55:32] [INFO] Sikeres válasz érkezett a(z) 'asd' üzenetre a következőtől: 'gamika18' (ID: '323902189904855061') a '💲inventory-test' csatornán
+[2024-01-09 20:55:32] [INFO] A bot válasza: '`Ez egy segítség amit tudsz változtatni.`'
+
+[2024-01-09 20:57:24] [INFO] 'Jockie Music#8158' mondja: '' (ID: 411916947773587456, 🎶zene)
+[2024-01-09 20:57:24] [INFO] Lekért felhasználói adatok: (21, 'Jockie Music#8158', 411916947773587456, 1008363940855689276)
+
+[2024-01-09 20:57:25] [ERROR] Érvénytelen bevitel: 400 Bad Request (error code: 50006); Ismeretlen bevitel: ''; a következőtől: 'Jockie Music#8158' (ID: 411916947773587456)
+
+[2024-01-09 20:57:51] [INFO] 'gamika18' mondja: 'asd' (ID: 323902189904855061, 💲inventory-test)
+[2024-01-09 20:57:51] [INFO] Lekért felhasználói adatok: (22, 'gamika18', 323902189904855061, 1177157033624092683)
+[2024-01-09 20:57:51] [INFO] Sikeres válasz érkezett a(z) 'asd' üzenetre a következőtől: 'gamika18' (ID: '323902189904855061') a '💲inventory-test' csatornán
+[2024-01-09 20:57:51] [INFO] A bot válasza: '`Ez egy segítség amit tudsz változtatni.`'
+
+[2024-01-09 20:58:24] [WARNING] PyNaCl is not installed, voice will NOT be supported
+[2024-01-09 20:58:24] [INFO] logging in using static token
+
+[2024-01-09 20:58:25] [INFO] Shard ID None has connected to Gateway (Session ID: dfee231f30964a725cc2d708821a0476).
+
+[2024-01-09 20:58:27] [INFO] Inventory#2659 csatlakozott a Discordhoz!
+
+[2024-01-09 20:58:34] [INFO] 'gamika18' mondja: 'asd' (ID: 323902189904855061, 💲inventory-test)
+[2024-01-09 20:58:34] [ERROR] Hiba az adatbázissal való interakció közben: table users has no column named created_at
+[2024-01-09 20:58:34] [INFO] Sikeres válasz érkezett a(z) 'asd' üzenetre a következőtől: 'gamika18' (ID: '323902189904855061') a '💲inventory-test' csatornán
+[2024-01-09 20:58:34] [INFO] A bot válasza: '`Ez egy segítség amit tudsz változtatni.`'
+
+[2024-01-09 20:59:12] [INFO] 'Jockie Music#8158' mondja: '' (ID: 411916947773587456, 🎶zene)
+[2024-01-09 20:59:12] [ERROR] Hiba az adatbázissal való interakció közben: table users has no column named created_at
+[2024-01-09 20:59:12] [ERROR] Érvénytelen bevitel: 400 Bad Request (error code: 50006); Ismeretlen bevitel: ''; a következőtől: 'Jockie Music#8158' (ID: 411916947773587456)
+
+[2024-01-09 21:01:22] [INFO] 'Jockie Music#8158' mondja: '' (ID: 411916947773587456, 🎶zene)
+[2024-01-09 21:01:22] [ERROR] Hiba az adatbázissal való interakció közben: table users has no column named created_at
+
+[2024-01-09 21:01:23] [ERROR] Érvénytelen bevitel: 400 Bad Request (error code: 50006); Ismeretlen bevitel: ''; a következőtől: 'Jockie Music#8158' (ID: 411916947773587456)
+
+[2024-01-09 21:04:22] [INFO] 'Jockie Music#8158' mondja: '' (ID: 411916947773587456, 🎶zene)
+[2024-01-09 21:04:22] [ERROR] Hiba az adatbázissal való interakció közben: table users has no column named created_at
+[2024-01-09 21:04:22] [ERROR] Érvénytelen bevitel: 400 Bad Request (error code: 50006); Ismeretlen bevitel: ''; a következőtől: 'Jockie Music#8158' (ID: 411916947773587456)
+
+[2024-01-09 21:07:04] [INFO] 'Jockie Music#8158' mondja: '' (ID: 411916947773587456, 🎶zene)
+[2024-01-09 21:07:04] [ERROR] Hiba az adatbázissal való interakció közben: table users has no column named created_at
+
+[2024-01-09 21:07:05] [ERROR] Érvénytelen bevitel: 400 Bad Request (error code: 50006); Ismeretlen bevitel: ''; a következőtől: 'Jockie Music#8158' (ID: 411916947773587456)
+
+[2024-01-09 21:09:45] [WARNING] PyNaCl is not installed, voice will NOT be supported
+[2024-01-09 21:09:45] [INFO] logging in using static token
+
+[2024-01-09 21:09:46] [INFO] Shard ID None has connected to Gateway (Session ID: 302b09667b282218d49a34e9454a02ad).
+
+[2024-01-09 21:09:48] [INFO] Inventory#2659 csatlakozott a Discordhoz!
+
+[2024-01-09 21:09:51] [INFO] 'gamika18' mondja: 'asd' (ID: 323902189904855061, 💲inventory-test)
+[2024-01-09 21:09:51] [ERROR] Hiba az adatbázissal való interakció közben: table users has no column named created_at
+[2024-01-09 21:09:51] [INFO] Sikeres válasz érkezett a(z) 'asd' üzenetre a következőtől: 'gamika18' (ID: '323902189904855061') a '💲inventory-test' csatornán
+[2024-01-09 21:09:51] [INFO] A bot válasza: '`Ez egy segítség amit tudsz változtatni.`'
+
+[2024-01-09 21:09:53] [INFO] 'Jockie Music#8158' mondja: '' (ID: 411916947773587456, 🎶zene)
+[2024-01-09 21:09:53] [ERROR] Hiba az adatbázissal való interakció közben: table users has no column named created_at
+[2024-01-09 21:09:53] [ERROR] Érvénytelen bevitel: 400 Bad Request (error code: 50006); Ismeretlen bevitel: ''; a következőtől: 'Jockie Music#8158' (ID: 411916947773587456)
+
+[2024-01-09 21:12:32] [INFO] 'Jockie Music#8158' mondja: '' (ID: 411916947773587456, 🎶zene)
+[2024-01-09 21:12:32] [ERROR] Hiba az adatbázissal való interakció közben: table users has no column named created_at
+
+[2024-01-09 21:12:33] [ERROR] Érvénytelen bevitel: 400 Bad Request (error code: 50006); Ismeretlen bevitel: ''; a következőtől: 'Jockie Music#8158' (ID: 411916947773587456)
+
+[2024-01-09 21:15:14] [INFO] 'Jockie Music#8158' mondja: '' (ID: 411916947773587456, 🎶zene)
+[2024-01-09 21:15:14] [ERROR] Hiba az adatbázissal való interakció közben: table users has no column named created_at
+
+[2024-01-09 21:15:15] [ERROR] Érvénytelen bevitel: 400 Bad Request (error code: 50006); Ismeretlen bevitel: ''; a következőtől: 'Jockie Music#8158' (ID: 411916947773587456)
+
+[2024-01-09 21:16:06] [WARNING] PyNaCl is not installed, voice will NOT be supported
+[2024-01-09 21:16:06] [INFO] logging in using static token
+
+[2024-01-09 21:16:09] [INFO] Shard ID None has connected to Gateway (Session ID: c01c333f6d4aa4084723f71475f9592b).
+
+[2024-01-09 21:16:11] [INFO] Inventory#2659 csatlakozott a Discordhoz!
+
+[2024-01-09 21:16:26] [INFO] 'Jockie Music#8158' mondja: '' (ID: 411916947773587456, 🎶zene)
+[2024-01-09 21:16:26] [INFO] (23, 'Jockie Music#8158', 411916947773587456, 1008363940855689276, '2024-01-09 20:16:26', None, None)
+[2024-01-09 21:16:26] [INFO] Lekért felhasználói adatok: (23, 'Jockie Music#8158', 411916947773587456, 1008363940855689276, '2024-01-09 20:16:26', None, None)
+[2024-01-09 21:16:26] [ERROR] Érvénytelen bevitel: 400 Bad Request (error code: 50006); Ismeretlen bevitel: ''; a következőtől: 'Jockie Music#8158' (ID: 411916947773587456)
+
+[2024-01-09 21:16:56] [INFO] 'gamika18' mondja: 'asd' (ID: 323902189904855061, 💲inventory-test)
+[2024-01-09 21:16:56] [INFO] (24, 'gamika18', 323902189904855061, 1177157033624092683, '2024-01-09 20:16:56', None, None)
+[2024-01-09 21:16:56] [INFO] Lekért felhasználói adatok: (24, 'gamika18', 323902189904855061, 1177157033624092683, '2024-01-09 20:16:56', None, None)
+
+[2024-01-09 21:16:57] [INFO] Sikeres válasz érkezett a(z) 'asd' üzenetre a következőtől: 'gamika18' (ID: '323902189904855061') a '💲inventory-test' csatornán
+[2024-01-09 21:16:57] [INFO] A bot válasza: '`Ez egy segítség amit tudsz változtatni.`'
+
+[2024-01-09 21:17:57] [INFO] 'gamika18' mondja: 'asd' (ID: 323902189904855061, 💲inventory-test)
+
+[2024-01-09 21:17:58] [INFO] (25, 'gamika18', 323902189904855061, 1177157033624092683, '2024-01-09 20:17:57', None, None)
+[2024-01-09 21:17:58] [INFO] Lekért felhasználói adatok: (25, 'gamika18', 323902189904855061, 1177157033624092683, '2024-01-09 20:17:57', None, None)
+[2024-01-09 21:17:58] [INFO] Sikeres válasz érkezett a(z) 'asd' üzenetre a következőtől: 'gamika18' (ID: '323902189904855061') a '💲inventory-test' csatornán
+[2024-01-09 21:17:58] [INFO] A bot válasza: '`Ez egy segítség amit tudsz változtatni.`'
+
+[2024-01-09 21:19:51] [WARNING] PyNaCl is not installed, voice will NOT be supported
+[2024-01-09 21:19:51] [INFO] logging in using static token
+
+[2024-01-09 21:19:53] [INFO] Shard ID None has connected to Gateway (Session ID: 251656aeaa4887ad0a3b4406a0fce4de).
+
+[2024-01-09 21:19:55] [INFO] Inventory#2659 csatlakozott a Discordhoz!
+
+[2024-01-09 21:20:26] [INFO] 'Jockie Music#8158' mondja: '' (ID: 411916947773587456, 🎶zene)
+
+[2024-01-09 21:20:27] [ERROR] Érvénytelen bevitel: 400 Bad Request (error code: 50006); Ismeretlen bevitel: ''; a következőtől: 'Jockie Music#8158' (ID: 411916947773587456)
+
+[2024-01-09 21:21:02] [WARNING] PyNaCl is not installed, voice will NOT be supported
+[2024-01-09 21:21:02] [INFO] logging in using static token
+
+[2024-01-09 21:21:04] [INFO] Shard ID None has connected to Gateway (Session ID: de95fb2714b58d9ffd7b11aae327e4cb).
+
+[2024-01-09 21:21:06] [INFO] Inventory#2659 csatlakozott a Discordhoz!
+
+[2024-01-09 21:22:25] [INFO] 'Jockie Music#8158' mondja: '' (ID: 411916947773587456, 🎶zene)
+[2024-01-09 21:22:25] [ERROR] Érvénytelen bevitel: 400 Bad Request (error code: 50006); Ismeretlen bevitel: ''; a következőtől: 'Jockie Music#8158' (ID: 411916947773587456)
+
+[2024-01-09 21:24:52] [INFO] 'Jockie Music#8158' mondja: '' (ID: 411916947773587456, 🎶zene)
+
+[2024-01-09 21:24:53] [ERROR] Érvénytelen bevitel: 400 Bad Request (error code: 50006); Ismeretlen bevitel: ''; a következőtől: 'Jockie Music#8158' (ID: 411916947773587456)
+
+[2024-01-09 21:28:43] [INFO] 'Jockie Music#8158' mondja: '' (ID: 411916947773587456, 🎶zene)
+[2024-01-09 21:28:43] [ERROR] Érvénytelen bevitel: 400 Bad Request (error code: 50006); Ismeretlen bevitel: ''; a következőtől: 'Jockie Music#8158' (ID: 411916947773587456)
+
+[2024-01-09 21:31:59] [INFO] 'Jockie Music#8158' mondja: '' (ID: 411916947773587456, 🎶zene)
+
+[2024-01-09 21:32:01] [ERROR] Érvénytelen bevitel: 400 Bad Request (error code: 50006); Ismeretlen bevitel: ''; a következőtől: 'Jockie Music#8158' (ID: 411916947773587456)
+
+[2024-01-09 21:33:38] [INFO] 'Jockie Music#8158' mondja: '' (ID: 411916947773587456, 🎶zene)
+
+[2024-01-09 21:33:39] [ERROR] Érvénytelen bevitel: 400 Bad Request (error code: 50006); Ismeretlen bevitel: ''; a következőtől: 'Jockie Music#8158' (ID: 411916947773587456)
+
+[2024-01-09 21:35:52] [WARNING] PyNaCl is not installed, voice will NOT be supported
+[2024-01-09 21:35:52] [INFO] logging in using static token
+
+[2024-01-09 21:35:54] [INFO] Shard ID None has connected to Gateway (Session ID: 027a60d91dc7352bcdc9dbd3ae33c7cf).
+
+[2024-01-09 21:35:56] [INFO] Inventory#2659 csatlakozott a Discordhoz!
+
+[2024-01-09 21:36:00] [INFO] 'gamika18' mondja: 'asd' (ID: 323902189904855061, 💲inventory-test)
+[2024-01-09 21:36:00] [INFO] Sikeres válasz érkezett a(z) 'asd' üzenetre a következőtől: 'gamika18' (ID: '323902189904855061') a '💲inventory-test' csatornán
+[2024-01-09 21:36:00] [INFO] A bot válasza: '`Ez egy segítség amit tudsz változtatni.`'
+
+[2024-01-09 21:36:24] [INFO] 'Jockie Music#8158' mondja: '' (ID: 411916947773587456, 🎶zene)

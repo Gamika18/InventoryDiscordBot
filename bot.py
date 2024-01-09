@@ -10,6 +10,7 @@ init(autoreset=True)
 
 logger = setup_logger()
 
+
 async def send_message(message, user_message, is_private):
     try:
         response = responses.handle_responses(user_message, message)
@@ -18,15 +19,19 @@ async def send_message(message, user_message, is_private):
         else:
             await message.reply(response) if is_private else await message.reply(response)
 
-        logger.info(f"Sikeres válasz érkezett a(z) '{user_message}' üzenetre a következőtől: '{message.author}' (ID: '{message.author.id}') a '{message.channel}' csatornán")
+        logger.info(
+            f"Sikeres válasz érkezett a(z) '{user_message}' üzenetre a következőtől: '{message.author}' (ID: '{message.author.id}') a '{message.channel}' csatornán")
         logger.info(f"A bot válasza: '{response}'")
     except discord.errors.HTTPException as http_exception:
         if http_exception.status == 400:
-            logger.error(f"Érvénytelen bevitel: 400 Bad Request (error code: 50006); Ismeretlen bevitel: '{user_message}'; a következőtől: '{message.author}' (ID: {message.author.id})")
-            print(f"Nem értelmezhető az input: \n{Fore.RED}{'400 Bad Request (error code: 50006): '}\n{'Ismeretlen bemenet:'}{Fore.RESET}\n{Fore.RED}'{Fore.RESET}{user_message}{Fore.RED}'{Fore.RESET}\n")
+            logger.error(
+                f"Érvénytelen bevitel: 400 Bad Request (error code: 50006); Ismeretlen bevitel: '{user_message}'; a következőtől: '{message.author}' (ID: {message.author.id})")
+            print(
+                f"Nem értelmezhető az input: \n{Fore.RED}{'400 Bad Request (error code: 50006): '}\n{'Ismeretlen bemenet:'}{Fore.RESET}\n{Fore.RED}'{Fore.RESET}{user_message}{Fore.RED}'{Fore.RESET}\n")
         else:
             logger.error(f"Error handling message: {http_exception} from {message.author} (ID: {message.author.id})")
             print(f"Hiba az üzenet kezelése során: {Fore.RED}{http_exception}{Fore.RESET}\n")
+
 
 def run_discord_bot():
     client = commands.Bot(command_prefix='>', intents=discord.Intents.all())
@@ -54,6 +59,7 @@ def run_discord_bot():
             if not userModel.user_exists(conn, message.author.id):
                 userModel.create_user(conn, username, message.author.id, message.channel.id)
                 user_data = userModel.fetch_user(conn, message.author.id)
+                logger.info(user_data)
                 logger.info(f"Lekért felhasználói adatok: {user_data}")
         except Exception as exeption:
             logger.error(f"Hiba az adatbázissal való interakció közben: {exeption}")
@@ -80,6 +86,7 @@ def run_discord_bot():
         logger.error(f'Hiba történt az esemény kezelése során: {event}', exc_info=True)
 
     client.run(BOT_TOKEN)
+
 
 if __name__ == "__main__":
     run_discord_bot()

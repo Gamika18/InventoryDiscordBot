@@ -22,3 +22,64 @@
 [2024-01-07 11:01:32] [ERROR] Érvénytelen bevitel: 400 Bad Request (error code: 50006); Ismeretlen bevitel: 'kt kuka'; a következőtől: 'gamika18' (ID: 323902189904855061)
 [2024-01-07 11:01:32] [INFO] 'Karuta#1280' mondja: '<@323902189904855061>, the **Sayaka Koyanagi** card has been tagged successfully.' (ID: 646937666251915264, 🔻drops)
 [2024-01-07 11:01:32] [ERROR] Érvénytelen bevitel: 400 Bad Request (error code: 50006); Ismeretlen bevitel: '<@323902189904855061>, the **Sayaka Koyanagi** card has been tagged successfully.'; a következőtől: 'Karuta#1280' (ID: 646937666251915264)
+
+[2024-01-07 11:49:01] [WARNING] A bot lekapcsolódott.
+
+[2024-01-07 11:49:02] [INFO] Shard ID None session has been invalidated.
+[2024-01-07 11:49:02] [WARNING] A bot lekapcsolódott.
+
+[2024-01-07 11:49:08] [WARNING] A bot lekapcsolódott.
+
+[2024-01-07 11:55:06] [WARNING] PyNaCl is not installed, voice will NOT be supported
+[2024-01-07 11:55:06] [INFO] logging in using static token
+
+[2024-01-07 11:55:40] [WARNING] PyNaCl is not installed, voice will NOT be supported
+[2024-01-07 11:55:40] [INFO] logging in using static token
+
+[2024-01-07 11:55:42] [INFO] Shard ID None has connected to Gateway (Session ID: 23683be5de9a4e59f377a4cbc9abc71d).
+
+[2024-01-07 11:55:44] [INFO] Inventory#2659 csatlakozott a Discordhoz!
+
+[2024-01-07 11:55:59] [INFO] 'gamika18' mondja: 'szia' (ID: 323902189904855061, 💲inventory-test)
+
+[2024-01-07 11:56:00] [ERROR] Érvénytelen bevitel: 400 Bad Request (error code: 50006); Ismeretlen bevitel: 'szia'; a következőtől: 'gamika18' (ID: 323902189904855061)
+
+[2024-01-07 11:56:03] [INFO] 'gamika18' mondja: 'help' (ID: 323902189904855061, 💲inventory-test)
+
+[2024-01-07 11:56:04] [INFO] Sikeres válasz érkezett a(z) 'help' üzenetre a következőtől: 'gamika18' (ID: '323902189904855061') a '💲inventory-test' csatornán
+[2024-01-07 11:56:04] [INFO] A bot válasza: '<discord.embeds.Embed object at 0x00000270A83320E0>'
+
+[2024-01-07 11:56:09] [INFO] 'gamika18' mondja: 'hello' (ID: 323902189904855061, 💲inventory-test)
+[2024-01-07 11:56:09] [INFO] Sikeres válasz érkezett a(z) 'hello' üzenetre a következőtől: 'gamika18' (ID: '323902189904855061') a '💲inventory-test' csatornán
+[2024-01-07 11:56:09] [INFO] A bot válasza: 'Hello!'
+
+[2024-01-07 11:56:13] [INFO] 'gamika18' mondja: 'roll' (ID: 323902189904855061, 💲inventory-test)
+
+[2024-01-07 11:56:14] [INFO] Sikeres válasz érkezett a(z) 'roll' üzenetre a következőtől: 'gamika18' (ID: '323902189904855061') a '💲inventory-test' csatornán
+[2024-01-07 11:56:14] [INFO] A bot válasza: '1'
+
+[2024-01-07 11:56:17] [INFO] 'gamika18' mondja: 'roll' (ID: 323902189904855061, 💲inventory-test)
+[2024-01-07 11:56:17] [INFO] Sikeres válasz érkezett a(z) 'roll' üzenetre a következőtől: 'gamika18' (ID: '323902189904855061') a '💲inventory-test' csatornán
+[2024-01-07 11:56:17] [INFO] A bot válasza: '3'
+
+[2024-01-07 11:56:19] [INFO] 'gamika18' mondja: 'roll' (ID: 323902189904855061, 💲inventory-test)
+
+[2024-01-07 11:56:20] [INFO] Sikeres válasz érkezett a(z) 'roll' üzenetre a következőtől: 'gamika18' (ID: '323902189904855061') a '💲inventory-test' csatornán
+[2024-01-07 11:56:20] [INFO] A bot válasza: '2'
+
+[2024-01-07 11:56:23] [INFO] 'gamika18' mondja: 'asd' (ID: 323902189904855061, 💲inventory-test)
+
+[2024-01-07 11:56:24] [INFO] Sikeres válasz érkezett a(z) 'asd' üzenetre a következőtől: 'gamika18' (ID: '323902189904855061') a '💲inventory-test' csatornán
+[2024-01-07 11:56:24] [INFO] A bot válasza: '`Ez egy segítség amit tudsz változtatni.`'
+
+[2024-01-07 11:57:09] [INFO] 'gamika18' mondja: 'asd' (ID: 323902189904855061, 💲inventory-test)
+
+[2024-01-07 11:57:10] [INFO] Sikeres válasz érkezett a(z) 'asd' üzenetre a következőtől: 'gamika18' (ID: '323902189904855061') a '💲inventory-test' csatornán
+[2024-01-07 11:57:10] [INFO] A bot válasza: '`Ez egy segítség amit tudsz változtatni.`'
+
+[2024-01-07 13:01:30] [WARNING] PyNaCl is not installed, voice will NOT be supported
+[2024-01-07 13:01:30] [INFO] logging in using static token
+
+[2024-01-07 13:01:32] [INFO] Shard ID None has connected to Gateway (Session ID: 1e0aecc59127c8f4b0f45ba79279c2d0).
+
+[2024-01-07 13:01:34] [INFO] Inventory#2659 csatlakozott a Discordhoz!

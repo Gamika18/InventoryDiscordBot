@@ -1,3 +1,5 @@
 # config.py
+from models import botModel
 
-BOT_TOKEN = 'MTE3Njk4ODI5NDQ1MDUzMjQxMw.G0O45e.sSiUUVGCnI7PITzPyJE-xmO6vxVtA3i-qLsKqk'
+# Lekérdezi a bot token-t
+BOT_TOKEN = botModel.get_bot_token()
