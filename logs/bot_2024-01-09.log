@@ -227,3 +227,66 @@
 [2024-01-09 21:46:53] [INFO] Shard ID None has connected to Gateway (Session ID: 8619f7de7007ca82259de515cda81005).
 
 [2024-01-09 21:46:55] [INFO] Inventory#2659 csatlakozott a Discordhoz!
+
+[2024-01-09 21:47:48] [INFO] 'Jockie Music#8158' mondja: '' (ID: 411916947773587456, 🎶zene)
+
+[2024-01-09 21:47:49] [ERROR] Érvénytelen bevitel: 400 Bad Request (error code: 50006); Ismeretlen bevitel: ''; a következőtől: 'Jockie Music#8158' (ID: 411916947773587456)
+
+[2024-01-09 21:48:07] [INFO] 'gamika18' mondja: 'asd' (ID: 323902189904855061, 💲inventory-test)
+[2024-01-09 21:48:07] [INFO] Sikeres válasz érkezett a(z) 'asd' üzenetre a következőtől: 'gamika18' (ID: '323902189904855061') a '💲inventory-test' csatornán
+[2024-01-09 21:48:07] [INFO] A bot válasza: '`Ez egy segítség amit tudsz változtatni.`'
+
+[2024-01-09 21:50:04] [INFO] 'Jockie Music#8158' mondja: '' (ID: 411916947773587456, 🎶zene)
+[2024-01-09 21:50:04] [ERROR] Érvénytelen bevitel: 400 Bad Request (error code: 50006); Ismeretlen bevitel: ''; a következőtől: 'Jockie Music#8158' (ID: 411916947773587456)
+
+[2024-01-09 21:53:10] [INFO] 'Jockie Music#8158' mondja: '' (ID: 411916947773587456, 🎶zene)
+
+[2024-01-09 21:53:11] [ERROR] Érvénytelen bevitel: 400 Bad Request (error code: 50006); Ismeretlen bevitel: ''; a következőtől: 'Jockie Music#8158' (ID: 411916947773587456)
+
+[2024-01-09 21:53:48] [WARNING] PyNaCl is not installed, voice will NOT be supported
+
+[2024-01-09 21:53:48] [WARNING] PyNaCl is not installed, voice will NOT be supported
+[2024-01-09 21:53:48] [INFO] logging in using static token
+[2024-01-09 21:53:48] [INFO] logging in using static token
+
+[2024-01-09 21:53:50] [INFO] Shard ID None has connected to Gateway (Session ID: 3779101f006bdd7c48e5687d71849f75).
+
+[2024-01-09 21:53:50] [INFO] Shard ID None has connected to Gateway (Session ID: 3779101f006bdd7c48e5687d71849f75).
+
+[2024-01-09 21:53:52] [INFO] Inventory#2659 csatlakozott a Discordhoz!
+
+[2024-01-09 21:53:52] [INFO] Inventory#2659 csatlakozott a Discordhoz!
+
+[2024-01-09 21:54:34] [WARNING] PyNaCl is not installed, voice will NOT be supported
+
+[2024-01-09 21:54:34] [WARNING] PyNaCl is not installed, voice will NOT be supported
+[2024-01-09 21:54:34] [INFO] logging in using static token
+[2024-01-09 21:54:34] [INFO] logging in using static token
+
+[2024-01-09 21:54:35] [INFO] Shard ID None has connected to Gateway (Session ID: f29b5f54b7e694dcb6d766f8bb2f22a4).
+
+[2024-01-09 21:54:35] [INFO] Shard ID None has connected to Gateway (Session ID: f29b5f54b7e694dcb6d766f8bb2f22a4).
+
+[2024-01-09 21:54:37] [INFO] Inventory#2659 csatlakozott a Discordhoz!
+
+[2024-01-09 21:54:37] [INFO] Inventory#2659 csatlakozott a Discordhoz!
+
+[2024-01-09 21:55:28] [INFO] 'Jockie Music#8158' mondja: '' (ID: 411916947773587456, 🎶zene)
+
+[2024-01-09 21:55:28] [INFO] 'Jockie Music#8158' mondja: '' (ID: 411916947773587456, 🎶zene)
+[2024-01-09 21:55:28] [ERROR] Hiba az adatbázissal való interakció közben: 'NoneType' object has no attribute 'cursor'
+[2024-01-09 21:55:28] [ERROR] Hiba az adatbázissal való interakció közben: 'NoneType' object has no attribute 'cursor'
+[2024-01-09 21:55:28] [ERROR] Hiba történt az esemény kezelése során: on_message
+Traceback (most recent call last):
+  File "D:\Py\inventory\venv\lib\site-packages\discord\client.py", line 441, in _run_event
+    await coro(*args, **kwargs)
+  File "D:\Pyok\InventoryDiscordBot\bot.py", line 67, in on_message
+    conn.close()
+AttributeError: 'NoneType' object has no attribute 'close'
+[2024-01-09 21:55:28] [ERROR] Hiba történt az esemény kezelése során: on_message
+Traceback (most recent call last):
+  File "D:\Py\inventory\venv\lib\site-packages\discord\client.py", line 441, in _run_event
+    await coro(*args, **kwargs)
+  File "D:\Pyok\InventoryDiscordBot\bot.py", line 67, in on_message
+    conn.close()
+AttributeError: 'NoneType' object has no attribute 'close'
