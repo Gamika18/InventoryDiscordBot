@@ -3,21 +3,23 @@
 import discord
 import random
 
+
 # handle_responses függvény
 def handle_responses(message, ctx) -> str:
     p_message = message.lower()
 
     if p_message == 'hello':
         return 'Hello!'
-    
+
     if p_message == 'roll':
         return str(random.randint(1, 6))
-    
+
     if p_message == 'asd':
         return "`Ez egy segítség amit tudsz változtatni.`"
 
     if p_message == 'help':
         return help_response(ctx)
+
 
 def help_response(ctx):
     emlites = ctx.author.mention

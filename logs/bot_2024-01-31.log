@@ -1,0 +1,519 @@
+
+[2024-01-31 21:54:16] [WARNING] PyNaCl is not installed, voice will NOT be supported
+[2024-01-31 21:54:16] [INFO] logging in using static token
+
+[2024-01-31 21:54:17] [INFO] Shard ID None has connected to Gateway (Session ID: 61d98e4a8827d17edb5ad1360e67c06d).
+
+[2024-01-31 21:54:19] [INFO] Inventory#2659 csatlakozott a Discordhoz!
+
+[2024-01-31 21:55:04] [INFO] 'gamika18' mondja: 'bkk_positions' (ID: 323902189904855061, 💲inventory-test)
+[2024-01-31 21:55:04] [ERROR] Érvénytelen bevitel: 400 Bad Request (error code: 50006); Ismeretlen bevitel: 'bkk_positions'; a következőtől: 'gamika18' (ID: 323902189904855061)
+
+[2024-01-31 21:55:17] [INFO] 'shecouldgivemearide' mondja: 'Kd' (ID: 362636831189106688, 🔻drops)
+[2024-01-31 21:55:17] [INFO] (26, 'shecouldgivemearide', 362636831189106688, 1007637576213069854, '2024-01-31 20:55:17', None, None)
+[2024-01-31 21:55:17] [INFO] Lekért felhasználói adatok: (26, 'shecouldgivemearide', 362636831189106688, 1007637576213069854, '2024-01-31 20:55:17', None, None)
+[2024-01-31 21:55:17] [ERROR] Érvénytelen bevitel: 400 Bad Request (error code: 50006); Ismeretlen bevitel: 'Kd'; a következőtől: 'shecouldgivemearide' (ID: 362636831189106688)
+
+[2024-01-31 21:55:18] [INFO] 'Karuta#1280' mondja: '<@362636831189106688> is dropping 3 cards!' (ID: 646937666251915264, 🔻drops)
+
+[2024-01-31 21:55:19] [INFO] (27, 'Karuta#1280', 646937666251915264, 1007637576213069854, '2024-01-31 20:55:18', None, None)
+[2024-01-31 21:55:19] [INFO] Lekért felhasználói adatok: (27, 'Karuta#1280', 646937666251915264, 1007637576213069854, '2024-01-31 20:55:18', None, None)
+[2024-01-31 21:55:19] [ERROR] Érvénytelen bevitel: 400 Bad Request (error code: 50006); Ismeretlen bevitel: '<@362636831189106688> is dropping 3 cards!'; a következőtől: 'Karuta#1280' (ID: 646937666251915264)
+
+[2024-01-31 21:55:24] [INFO] 'Karuta#1280' mondja: '<@362636831189106688> took the **Tamahiko Teshiro** card `vklh0fs`! Its condition is quite **poor**.' (ID: 646937666251915264, 🔻drops)
+[2024-01-31 21:55:24] [ERROR] Érvénytelen bevitel: 400 Bad Request (error code: 50006); Ismeretlen bevitel: '<@362636831189106688> took the **Tamahiko Teshiro** card `vklh0fs`! Its condition is quite **poor**.'; a következőtől: 'Karuta#1280' (ID: 646937666251915264)
+
+[2024-01-31 22:00:20] [WARNING] PyNaCl is not installed, voice will NOT be supported
+[2024-01-31 22:00:20] [INFO] logging in using static token
+
+[2024-01-31 22:00:21] [INFO] Shard ID None has connected to Gateway (Session ID: b2d1bc28c4360020de2b9e788d926433).
+
+[2024-01-31 22:00:23] [INFO] Inventory#2659 csatlakozott a Discordhoz!
+
+[2024-01-31 22:00:29] [INFO] 'gamika18' mondja: 'bkk_positions' (ID: 323902189904855061, 💲inventory-test)
+
+[2024-01-31 22:00:30] [ERROR] Hiba az üzenet kezelése során: 400 Bad Request (error code: 50035): Invalid Form Body
+In content: Must be 4000 or fewer in length.
+Traceback (most recent call last):
+  File "D:\Pyok\InventoryDiscordBot\bot.py", line 22, in send_message
+    await message.reply(f"BKK jármű pozíciók:\n```{bkk_response}```")
+  File "D:\Py\inventory\venv\lib\site-packages\discord\message.py", line 1384, in reply
+    return await self.channel.send(content, reference=self, **kwargs)
+  File "D:\Py\inventory\venv\lib\site-packages\discord\abc.py", line 1561, in send
+    data = await state.http.send_message(channel.id, params=params)
+  File "D:\Py\inventory\venv\lib\site-packages\discord\http.py", line 745, in request
+    raise HTTPException(response, data)
+discord.errors.HTTPException: 400 Bad Request (error code: 50035): Invalid Form Body
+In content: Must be 4000 or fewer in length.
+[2024-01-31 22:00:30] [ERROR] Érvénytelen bevitel: 400 Bad Request (error code: 50006); Ismeretlen bevitel: 'bkk_positions'; a következőtől: 'gamika18' (ID: 323902189904855061)
+
+[2024-01-31 22:01:01] [ERROR] Attempting a reconnect in 1.67s
+Traceback (most recent call last):
+  File "D:\Py\inventory\venv\lib\site-packages\discord\client.py", line 659, in connect
+    await self.ws.poll_event()
+  File "D:\Py\inventory\venv\lib\site-packages\discord\gateway.py", line 646, in poll_event
+    raise ConnectionClosed(self.socket, shard_id=self.shard_id, code=code) from None
+discord.errors.ConnectionClosed: Shard ID None WebSocket closed with 1000
+[2024-01-31 22:01:01] [WARNING] A bot lekapcsolódott.
+
+[2024-01-31 22:01:03] [INFO] Shard ID None has successfully RESUMED session b2d1bc28c4360020de2b9e788d926433.
+
+[2024-01-31 22:01:59] [WARNING] PyNaCl is not installed, voice will NOT be supported
+[2024-01-31 22:01:59] [INFO] logging in using static token
+
+[2024-01-31 22:02:00] [INFO] Shard ID None has connected to Gateway (Session ID: 0ccea353250503219531e37d0937dc56).
+
+[2024-01-31 22:02:02] [INFO] Inventory#2659 csatlakozott a Discordhoz!
+
+[2024-01-31 22:02:06] [INFO] 'gamika18' mondja: 'bkk_positions' (ID: 323902189904855061, 💲inventory-test)
+[2024-01-31 22:02:06] [ERROR] Hiba az üzenet kezelése során: 400 Bad Request (error code: 50035): Invalid Form Body
+In content: Must be 4000 or fewer in length.
+Traceback (most recent call last):
+  File "D:\Pyok\InventoryDiscordBot\bot.py", line 27, in send_message
+    await message.reply(f"BKK jármű pozíciók:\n```{bkk_response}```")
+  File "D:\Py\inventory\venv\lib\site-packages\discord\message.py", line 1384, in reply
+    return await self.channel.send(content, reference=self, **kwargs)
+  File "D:\Py\inventory\venv\lib\site-packages\discord\abc.py", line 1561, in send
+    data = await state.http.send_message(channel.id, params=params)
+  File "D:\Py\inventory\venv\lib\site-packages\discord\http.py", line 745, in request
+    raise HTTPException(response, data)
+discord.errors.HTTPException: 400 Bad Request (error code: 50035): Invalid Form Body
+In content: Must be 4000 or fewer in length.
+[2024-01-31 22:02:06] [ERROR] Érvénytelen bevitel: 400 Bad Request (error code: 50006); Ismeretlen bevitel: 'bkk_positions'; a következőtől: 'gamika18' (ID: 323902189904855061)
+
+[2024-01-31 22:03:11] [WARNING] PyNaCl is not installed, voice will NOT be supported
+[2024-01-31 22:03:11] [INFO] logging in using static token
+
+[2024-01-31 22:03:12] [INFO] Shard ID None has connected to Gateway (Session ID: d86095dd4b46fdc9092f510762ee976c).
+
+[2024-01-31 22:03:14] [INFO] Inventory#2659 csatlakozott a Discordhoz!
+
+[2024-01-31 22:03:18] [INFO] 'gamika18' mondja: 'bkk_positions' (ID: 323902189904855061, 💲inventory-test)
+[2024-01-31 22:03:18] [ERROR] Hiba az üzenet kezelése során: 400 Bad Request (error code: 50035): Invalid Form Body
+In content: Must be 2000 or fewer in length.
+Traceback (most recent call last):
+  File "D:\Pyok\InventoryDiscordBot\bot.py", line 27, in send_message
+    await message.reply(f"BKK jármű pozíciók:\n```{bkk_response[:2000]}```")
+  File "D:\Py\inventory\venv\lib\site-packages\discord\message.py", line 1384, in reply
+    return await self.channel.send(content, reference=self, **kwargs)
+  File "D:\Py\inventory\venv\lib\site-packages\discord\abc.py", line 1561, in send
+    data = await state.http.send_message(channel.id, params=params)
+  File "D:\Py\inventory\venv\lib\site-packages\discord\http.py", line 745, in request
+    raise HTTPException(response, data)
+discord.errors.HTTPException: 400 Bad Request (error code: 50035): Invalid Form Body
+In content: Must be 2000 or fewer in length.
+[2024-01-31 22:03:18] [ERROR] Érvénytelen bevitel: 400 Bad Request (error code: 50006); Ismeretlen bevitel: 'bkk_positions'; a következőtől: 'gamika18' (ID: 323902189904855061)
+
+[2024-01-31 22:06:37] [WARNING] PyNaCl is not installed, voice will NOT be supported
+[2024-01-31 22:06:37] [INFO] logging in using static token
+
+[2024-01-31 22:06:38] [INFO] Shard ID None has connected to Gateway (Session ID: aeb09e595653b8d3ebd731c1f79e39e1).
+
+[2024-01-31 22:06:40] [INFO] Inventory#2659 csatlakozott a Discordhoz!
+
+[2024-01-31 22:06:44] [INFO] 'gamika18' mondja: 'bkk_positions' (ID: 323902189904855061, 💲inventory-test)
+
+[2024-01-31 22:06:45] [ERROR] Hiba az üzenet kezelése során: 400 Bad Request (error code: 50035): Invalid Form Body
+In content: Must be 2000 or fewer in length.
+Traceback (most recent call last):
+  File "D:\Pyok\InventoryDiscordBot\bot.py", line 27, in send_message
+    await message.reply(f"BKK jármű pozíciók:\n```{chunk}```")
+  File "D:\Py\inventory\venv\lib\site-packages\discord\message.py", line 1384, in reply
+    return await self.channel.send(content, reference=self, **kwargs)
+  File "D:\Py\inventory\venv\lib\site-packages\discord\abc.py", line 1561, in send
+    data = await state.http.send_message(channel.id, params=params)
+  File "D:\Py\inventory\venv\lib\site-packages\discord\http.py", line 745, in request
+    raise HTTPException(response, data)
+discord.errors.HTTPException: 400 Bad Request (error code: 50035): Invalid Form Body
+In content: Must be 2000 or fewer in length.
+[2024-01-31 22:06:45] [ERROR] Érvénytelen bevitel: 400 Bad Request (error code: 50006); Ismeretlen bevitel: 'bkk_positions'; a következőtől: 'gamika18' (ID: 323902189904855061)
+
+[2024-01-31 22:07:42] [WARNING] PyNaCl is not installed, voice will NOT be supported
+[2024-01-31 22:07:42] [INFO] logging in using static token
+
+[2024-01-31 22:07:43] [INFO] Shard ID None has connected to Gateway (Session ID: 897c03faafafa08d348edbe85f2600e2).
+
+[2024-01-31 22:07:45] [INFO] Inventory#2659 csatlakozott a Discordhoz!
+
+[2024-01-31 22:07:48] [INFO] 'gamika18' mondja: 'bkk_positions' (ID: 323902189904855061, 💲inventory-test)
+
+[2024-01-31 22:08:04] [INFO] 'gamika18' mondja: 'ajajj' (ID: 323902189904855061, 💲inventory-test)
+
+[2024-01-31 22:08:07] [ERROR] Hiba az üzenet kezelése során: 400 Bad Request (error code: 50006): Cannot send an empty message
+Traceback (most recent call last):
+  File "D:\Pyok\InventoryDiscordBot\bot.py", line 36, in send_message
+    await message.reply(response) if is_private else await message.reply(response)
+  File "D:\Py\inventory\venv\lib\site-packages\discord\message.py", line 1384, in reply
+    return await self.channel.send(content, reference=self, **kwargs)
+  File "D:\Py\inventory\venv\lib\site-packages\discord\abc.py", line 1561, in send
+    data = await state.http.send_message(channel.id, params=params)
+  File "D:\Py\inventory\venv\lib\site-packages\discord\http.py", line 745, in request
+    raise HTTPException(response, data)
+discord.errors.HTTPException: 400 Bad Request (error code: 50006): Cannot send an empty message
+[2024-01-31 22:08:07] [ERROR] Érvénytelen bevitel: 400 Bad Request (error code: 50006); Ismeretlen bevitel: 'ajajj'; a következőtől: 'gamika18' (ID: 323902189904855061)
+
+[2024-01-31 22:08:28] [WARNING] PyNaCl is not installed, voice will NOT be supported
+[2024-01-31 22:08:28] [INFO] logging in using static token
+
+[2024-01-31 22:08:29] [INFO] Shard ID None has connected to Gateway (Session ID: 1d65fbc8c299068319ee20b048a10418).
+
+[2024-01-31 22:08:31] [INFO] Inventory#2659 csatlakozott a Discordhoz!
+
+[2024-01-31 22:08:33] [INFO] 'gamika18' mondja: 'bkk_positions' (ID: 323902189904855061, 💲inventory-test)
+
+[2024-01-31 22:12:23] [WARNING] PyNaCl is not installed, voice will NOT be supported
+[2024-01-31 22:12:23] [INFO] logging in using static token
+
+[2024-01-31 22:12:24] [INFO] Shard ID None has connected to Gateway (Session ID: 2be1e34e8f38b77041d51e5b6e30ea26).
+
+[2024-01-31 22:12:26] [INFO] Inventory#2659 csatlakozott a Discordhoz!
+
+[2024-01-31 22:12:32] [INFO] 'gamika18' mondja: 'bkk_positions' (ID: 323902189904855061, 💲inventory-test)
+
+[2024-01-31 22:15:32] [WARNING] PyNaCl is not installed, voice will NOT be supported
+[2024-01-31 22:15:32] [INFO] logging in using static token
+
+[2024-01-31 22:15:33] [INFO] Shard ID None has connected to Gateway (Session ID: aaca627d275a4db82d292203d1f27ce5).
+
+[2024-01-31 22:15:35] [INFO] Inventory#2659 csatlakozott a Discordhoz!
+
+[2024-01-31 22:15:39] [INFO] 'gamika18' mondja: 'bkk_positions' (ID: 323902189904855061, 💲inventory-test)
+
+[2024-01-31 22:17:08] [WARNING] PyNaCl is not installed, voice will NOT be supported
+[2024-01-31 22:17:08] [INFO] logging in using static token
+
+[2024-01-31 22:17:09] [INFO] Shard ID None has connected to Gateway (Session ID: c6c65b53eba30d43171b9235f658ef54).
+
+[2024-01-31 22:17:11] [INFO] Inventory#2659 csatlakozott a Discordhoz!
+
+[2024-01-31 22:17:16] [INFO] 'gamika18' mondja: 'bkk_positions' (ID: 323902189904855061, 💲inventory-test)
+[2024-01-31 22:17:16] [ERROR] Hiba történt az esemény kezelése során: on_message
+Traceback (most recent call last):
+  File "D:\Py\inventory\venv\lib\site-packages\discord\client.py", line 441, in _run_event
+    await coro(*args, **kwargs)
+  File "D:\Pyok\InventoryDiscordBot\bot.py", line 108, in on_message
+    await send_message(message, user_message, is_private=False)
+  File "D:\Pyok\InventoryDiscordBot\bot.py", line 31, in send_message
+    decoded_response = json.loads(bkk_response)
+  File "C:\Python310\lib\json\__init__.py", line 341, in loads
+    s = s.decode(detect_encoding(s), 'surrogatepass')
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xbc in position 10: invalid start byte
+
+[2024-01-31 22:18:19] [WARNING] PyNaCl is not installed, voice will NOT be supported
+[2024-01-31 22:18:19] [INFO] logging in using static token
+
+[2024-01-31 22:18:20] [INFO] Shard ID None has connected to Gateway (Session ID: c6a8d54d8d0e0263e5432062d8cbc2d5).
+
+[2024-01-31 22:18:22] [INFO] Inventory#2659 csatlakozott a Discordhoz!
+
+[2024-01-31 22:18:25] [INFO] 'gamika18' mondja: 'bkk_positions' (ID: 323902189904855061, 💲inventory-test)
+
+[2024-01-31 22:19:34] [WARNING] PyNaCl is not installed, voice will NOT be supported
+[2024-01-31 22:19:34] [INFO] logging in using static token
+
+[2024-01-31 22:19:35] [INFO] Shard ID None has connected to Gateway (Session ID: 2e6af747b2e85e04fa85649e8a568377).
+
+[2024-01-31 22:19:37] [INFO] Inventory#2659 csatlakozott a Discordhoz!
+
+[2024-01-31 22:19:41] [INFO] 'gamika18' mondja: 'bkk_positions' (ID: 323902189904855061, 💲inventory-test)
+
+[2024-01-31 22:21:33] [WARNING] PyNaCl is not installed, voice will NOT be supported
+[2024-01-31 22:21:33] [INFO] logging in using static token
+
+[2024-01-31 22:21:34] [INFO] Shard ID None has connected to Gateway (Session ID: 05a1feaac7f571115af159256c9120c8).
+
+[2024-01-31 22:21:36] [INFO] Inventory#2659 csatlakozott a Discordhoz!
+
+[2024-01-31 22:21:40] [INFO] 'gamika18' mondja: 'bkk_positions' (ID: 323902189904855061, 💲inventory-test)
+
+[2024-01-31 22:23:22] [WARNING] PyNaCl is not installed, voice will NOT be supported
+[2024-01-31 22:23:22] [INFO] logging in using static token
+
+[2024-01-31 22:23:23] [INFO] Shard ID None has connected to Gateway (Session ID: 7cf855973ca0e0552713632594e758d8).
+
+[2024-01-31 22:23:25] [INFO] Inventory#2659 csatlakozott a Discordhoz!
+
+[2024-01-31 22:23:26] [INFO] 'gamika18' mondja: 'bkk_positions' (ID: 323902189904855061, 💲inventory-test)
+
+[2024-01-31 22:26:28] [WARNING] PyNaCl is not installed, voice will NOT be supported
+[2024-01-31 22:26:28] [INFO] logging in using static token
+
+[2024-01-31 22:26:29] [INFO] Shard ID None has connected to Gateway (Session ID: 439f16086c833087459a8668f0302558).
+
+[2024-01-31 22:26:31] [INFO] Inventory#2659 csatlakozott a Discordhoz!
+
+[2024-01-31 22:26:35] [INFO] 'gamika18' mondja: 'bkk_positions' (ID: 323902189904855061, 💲inventory-test)
+
+[2024-01-31 22:28:15] [WARNING] PyNaCl is not installed, voice will NOT be supported
+[2024-01-31 22:28:15] [INFO] logging in using static token
+
+[2024-01-31 22:28:16] [INFO] Shard ID None has connected to Gateway (Session ID: 7a9fa3867a78fc325c5ac5149e42c26a).
+
+[2024-01-31 22:28:18] [INFO] Inventory#2659 csatlakozott a Discordhoz!
+
+[2024-01-31 22:28:45] [INFO] 'gamika18' mondja: 'bkk_positions' (ID: 323902189904855061, 💲inventory-test)
+
+[2024-01-31 22:30:08] [WARNING] PyNaCl is not installed, voice will NOT be supported
+[2024-01-31 22:30:08] [INFO] logging in using static token
+
+[2024-01-31 22:30:09] [INFO] Shard ID None has connected to Gateway (Session ID: a9c85b6b0bb756ed0d5ad7846b63cc68).
+
+[2024-01-31 22:30:11] [INFO] Inventory#2659 csatlakozott a Discordhoz!
+
+[2024-01-31 22:30:20] [INFO] 'gamika18' mondja: 'bkk_positions 54' (ID: 323902189904855061, 💲inventory-test)
+[2024-01-31 22:30:20] [ERROR] Hiba az üzenet kezelése során: 400 Bad Request (error code: 50006): Cannot send an empty message
+Traceback (most recent call last):
+  File "D:\Pyok\InventoryDiscordBot\bot.py", line 41, in send_message
+    await message.reply(response) if is_private else await message.reply(response)
+  File "D:\Py\inventory\venv\lib\site-packages\discord\message.py", line 1384, in reply
+    return await self.channel.send(content, reference=self, **kwargs)
+  File "D:\Py\inventory\venv\lib\site-packages\discord\abc.py", line 1561, in send
+    data = await state.http.send_message(channel.id, params=params)
+  File "D:\Py\inventory\venv\lib\site-packages\discord\http.py", line 745, in request
+    raise HTTPException(response, data)
+discord.errors.HTTPException: 400 Bad Request (error code: 50006): Cannot send an empty message
+[2024-01-31 22:30:20] [ERROR] Érvénytelen bevitel: 400 Bad Request (error code: 50006); Ismeretlen bevitel: 'bkk_positions 54'; a következőtől: 'gamika18' (ID: 323902189904855061)
+
+[2024-01-31 22:31:07] [INFO] 'gamika18' mondja: 'bkk_positions BKK_2010' (ID: 323902189904855061, 💲inventory-test)
+[2024-01-31 22:31:07] [ERROR] Hiba az üzenet kezelése során: 400 Bad Request (error code: 50006): Cannot send an empty message
+Traceback (most recent call last):
+  File "D:\Pyok\InventoryDiscordBot\bot.py", line 41, in send_message
+    await message.reply(response) if is_private else await message.reply(response)
+  File "D:\Py\inventory\venv\lib\site-packages\discord\message.py", line 1384, in reply
+    return await self.channel.send(content, reference=self, **kwargs)
+  File "D:\Py\inventory\venv\lib\site-packages\discord\abc.py", line 1561, in send
+    data = await state.http.send_message(channel.id, params=params)
+  File "D:\Py\inventory\venv\lib\site-packages\discord\http.py", line 745, in request
+    raise HTTPException(response, data)
+discord.errors.HTTPException: 400 Bad Request (error code: 50006): Cannot send an empty message
+[2024-01-31 22:31:07] [ERROR] Érvénytelen bevitel: 400 Bad Request (error code: 50006); Ismeretlen bevitel: 'bkk_positions BKK_2010'; a következőtől: 'gamika18' (ID: 323902189904855061)
+
+[2024-01-31 22:32:16] [WARNING] PyNaCl is not installed, voice will NOT be supported
+[2024-01-31 22:32:16] [INFO] logging in using static token
+
+[2024-01-31 22:32:17] [INFO] Shard ID None has connected to Gateway (Session ID: 8e7ee95bc4ba710a735b9f5c7e253756).
+
+[2024-01-31 22:32:19] [INFO] Inventory#2659 csatlakozott a Discordhoz!
+
+[2024-01-31 22:32:22] [INFO] 'gamika18' mondja: 'bkk_positions 54' (ID: 323902189904855061, 💲inventory-test)
+[2024-01-31 22:32:22] [ERROR] Hiba az üzenet kezelése során: 400 Bad Request (error code: 50006): Cannot send an empty message
+Traceback (most recent call last):
+  File "D:\Pyok\InventoryDiscordBot\bot.py", line 45, in send_message
+    await message.reply(response) if is_private else await message.reply(response)
+  File "D:\Py\inventory\venv\lib\site-packages\discord\message.py", line 1384, in reply
+    return await self.channel.send(content, reference=self, **kwargs)
+  File "D:\Py\inventory\venv\lib\site-packages\discord\abc.py", line 1561, in send
+    data = await state.http.send_message(channel.id, params=params)
+  File "D:\Py\inventory\venv\lib\site-packages\discord\http.py", line 745, in request
+    raise HTTPException(response, data)
+discord.errors.HTTPException: 400 Bad Request (error code: 50006): Cannot send an empty message
+[2024-01-31 22:32:22] [ERROR] Érvénytelen bevitel: 400 Bad Request (error code: 50006); Ismeretlen bevitel: 'bkk_positions 54'; a következőtől: 'gamika18' (ID: 323902189904855061)
+
+[2024-01-31 22:33:26] [WARNING] PyNaCl is not installed, voice will NOT be supported
+[2024-01-31 22:33:26] [INFO] logging in using static token
+
+[2024-01-31 22:33:27] [INFO] Shard ID None has connected to Gateway (Session ID: aefb5b0c8f012b664e681abf838f9230).
+
+[2024-01-31 22:33:29] [INFO] Inventory#2659 csatlakozott a Discordhoz!
+
+[2024-01-31 22:33:30] [INFO] 'gamika18' mondja: 'bkk_positions 54' (ID: 323902189904855061, 💲inventory-test)
+[2024-01-31 22:33:30] [ERROR] Hiba az üzenet kezelése során: 400 Bad Request (error code: 50006): Cannot send an empty message
+Traceback (most recent call last):
+  File "D:\Pyok\InventoryDiscordBot\bot.py", line 40, in send_message
+    await message.reply(response) if is_private else await message.reply(response)
+  File "D:\Py\inventory\venv\lib\site-packages\discord\message.py", line 1384, in reply
+    return await self.channel.send(content, reference=self, **kwargs)
+  File "D:\Py\inventory\venv\lib\site-packages\discord\abc.py", line 1561, in send
+    data = await state.http.send_message(channel.id, params=params)
+  File "D:\Py\inventory\venv\lib\site-packages\discord\http.py", line 745, in request
+    raise HTTPException(response, data)
+discord.errors.HTTPException: 400 Bad Request (error code: 50006): Cannot send an empty message
+[2024-01-31 22:33:30] [ERROR] Érvénytelen bevitel: 400 Bad Request (error code: 50006); Ismeretlen bevitel: 'bkk_positions 54'; a következőtől: 'gamika18' (ID: 323902189904855061)
+
+[2024-01-31 22:33:37] [INFO] 'gamika18' mondja: 'bkk_positions' (ID: 323902189904855061, 💲inventory-test)
+
+[2024-01-31 22:36:20] [WARNING] PyNaCl is not installed, voice will NOT be supported
+[2024-01-31 22:36:20] [INFO] logging in using static token
+
+[2024-01-31 22:36:21] [INFO] Shard ID None has connected to Gateway (Session ID: 2759adf9f7382c3dce69f6eb80fe29a2).
+
+[2024-01-31 22:36:23] [INFO] Inventory#2659 csatlakozott a Discordhoz!
+
+[2024-01-31 22:36:26] [INFO] 'gamika18' mondja: 'bkk_positions' (ID: 323902189904855061, 💲inventory-test)
+[2024-01-31 22:36:26] [ERROR] Hiba történt az esemény kezelése során: on_message
+Traceback (most recent call last):
+  File "D:\Py\inventory\venv\lib\site-packages\discord\client.py", line 441, in _run_event
+    await coro(*args, **kwargs)
+  File "D:\Pyok\InventoryDiscordBot\bot.py", line 98, in on_message
+    await send_message(message, user_message, is_private=False)
+  File "D:\Pyok\InventoryDiscordBot\bot.py", line 32, in send_message
+    full_response = "\n".join(chunks)
+TypeError: sequence item 0: expected str instance, bytes found
+
+[2024-01-31 22:37:24] [WARNING] PyNaCl is not installed, voice will NOT be supported
+[2024-01-31 22:37:24] [INFO] logging in using static token
+
+[2024-01-31 22:37:25] [INFO] Shard ID None has connected to Gateway (Session ID: 727a39eaf081f19c7888dd5d6d90b52a).
+
+[2024-01-31 22:37:27] [INFO] Inventory#2659 csatlakozott a Discordhoz!
+
+[2024-01-31 22:37:29] [INFO] 'gamika18' mondja: 'bkk_positions' (ID: 323902189904855061, 💲inventory-test)
+[2024-01-31 22:37:29] [ERROR] Hiba történt az esemény kezelése során: on_message
+Traceback (most recent call last):
+  File "D:\Py\inventory\venv\lib\site-packages\discord\client.py", line 441, in _run_event
+    await coro(*args, **kwargs)
+  File "D:\Pyok\InventoryDiscordBot\bot.py", line 101, in on_message
+    await send_message(message, user_message, is_private=False)
+  File "D:\Pyok\InventoryDiscordBot\bot.py", line 29, in send_message
+    bkk_response_str = bkk_response.decode('utf-8')
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xff in position 10: invalid start byte
+
+[2024-01-31 22:38:04] [WARNING] PyNaCl is not installed, voice will NOT be supported
+[2024-01-31 22:38:04] [INFO] logging in using static token
+
+[2024-01-31 22:38:05] [INFO] Shard ID None has connected to Gateway (Session ID: 92256c575f0c91c4f7225433bd8f8b4f).
+
+[2024-01-31 22:38:07] [INFO] Inventory#2659 csatlakozott a Discordhoz!
+
+[2024-01-31 22:38:08] [INFO] 'gamika18' mondja: 'bkk_positions' (ID: 323902189904855061, 💲inventory-test)
+[2024-01-31 22:38:08] [ERROR] Hiba az üzenet kezelése során: 400 Bad Request (error code: 50035): Invalid Form Body
+In content: Must be 2000 or fewer in length.
+Traceback (most recent call last):
+  File "D:\Pyok\InventoryDiscordBot\bot.py", line 36, in send_message
+    await message.reply(f"BKK jármű pozíciók ({route_id}):\n```{full_response}```")
+  File "D:\Py\inventory\venv\lib\site-packages\discord\message.py", line 1384, in reply
+    return await self.channel.send(content, reference=self, **kwargs)
+  File "D:\Py\inventory\venv\lib\site-packages\discord\abc.py", line 1561, in send
+    data = await state.http.send_message(channel.id, params=params)
+  File "D:\Py\inventory\venv\lib\site-packages\discord\http.py", line 745, in request
+    raise HTTPException(response, data)
+discord.errors.HTTPException: 400 Bad Request (error code: 50035): Invalid Form Body
+In content: Must be 2000 or fewer in length.
+[2024-01-31 22:38:08] [ERROR] Érvénytelen bevitel: 400 Bad Request (error code: 50006); Ismeretlen bevitel: 'bkk_positions'; a következőtől: 'gamika18' (ID: 323902189904855061)
+
+[2024-01-31 22:38:13] [INFO] 'gamika18' mondja: 'bkk_positions' (ID: 323902189904855061, 💲inventory-test)
+
+[2024-01-31 22:38:14] [ERROR] Hiba az üzenet kezelése során: 400 Bad Request (error code: 50035): Invalid Form Body
+In content: Must be 2000 or fewer in length.
+Traceback (most recent call last):
+  File "D:\Pyok\InventoryDiscordBot\bot.py", line 36, in send_message
+    await message.reply(f"BKK jármű pozíciók ({route_id}):\n```{full_response}```")
+  File "D:\Py\inventory\venv\lib\site-packages\discord\message.py", line 1384, in reply
+    return await self.channel.send(content, reference=self, **kwargs)
+  File "D:\Py\inventory\venv\lib\site-packages\discord\abc.py", line 1561, in send
+    data = await state.http.send_message(channel.id, params=params)
+  File "D:\Py\inventory\venv\lib\site-packages\discord\http.py", line 745, in request
+    raise HTTPException(response, data)
+discord.errors.HTTPException: 400 Bad Request (error code: 50035): Invalid Form Body
+In content: Must be 2000 or fewer in length.
+[2024-01-31 22:38:14] [ERROR] Érvénytelen bevitel: 400 Bad Request (error code: 50006); Ismeretlen bevitel: 'bkk_positions'; a következőtől: 'gamika18' (ID: 323902189904855061)
+
+[2024-01-31 22:38:44] [WARNING] PyNaCl is not installed, voice will NOT be supported
+[2024-01-31 22:38:44] [INFO] logging in using static token
+
+[2024-01-31 22:38:45] [INFO] Shard ID None has connected to Gateway (Session ID: 005a9b2f59c30eab9497646589307f1e).
+
+[2024-01-31 22:38:48] [INFO] Inventory#2659 csatlakozott a Discordhoz!
+
+[2024-01-31 22:38:49] [INFO] 'gamika18' mondja: 'bkk_positions' (ID: 323902189904855061, 💲inventory-test)
+[2024-01-31 22:38:49] [ERROR] Hiba az üzenet kezelése során: 400 Bad Request (error code: 50035): Invalid Form Body
+In content: Must be 4000 or fewer in length.
+Traceback (most recent call last):
+  File "D:\Pyok\InventoryDiscordBot\bot.py", line 36, in send_message
+    await message.reply(f"BKK jármű pozíciók ({route_id}):\n```{full_response}```")
+  File "D:\Py\inventory\venv\lib\site-packages\discord\message.py", line 1384, in reply
+    return await self.channel.send(content, reference=self, **kwargs)
+  File "D:\Py\inventory\venv\lib\site-packages\discord\abc.py", line 1561, in send
+    data = await state.http.send_message(channel.id, params=params)
+  File "D:\Py\inventory\venv\lib\site-packages\discord\http.py", line 745, in request
+    raise HTTPException(response, data)
+discord.errors.HTTPException: 400 Bad Request (error code: 50035): Invalid Form Body
+In content: Must be 4000 or fewer in length.
+[2024-01-31 22:38:49] [ERROR] Érvénytelen bevitel: 400 Bad Request (error code: 50006); Ismeretlen bevitel: 'bkk_positions'; a következőtől: 'gamika18' (ID: 323902189904855061)
+
+[2024-01-31 22:39:05] [WARNING] PyNaCl is not installed, voice will NOT be supported
+[2024-01-31 22:39:05] [INFO] logging in using static token
+
+[2024-01-31 22:39:06] [INFO] Shard ID None has connected to Gateway (Session ID: c9cf4cd4dca7a5cb5ff9ae2b53d5ed10).
+
+[2024-01-31 22:39:08] [INFO] Inventory#2659 csatlakozott a Discordhoz!
+
+[2024-01-31 22:39:09] [INFO] 'gamika18' mondja: 'bkk_positions' (ID: 323902189904855061, 💲inventory-test)
+
+[2024-01-31 22:39:10] [ERROR] Hiba az üzenet kezelése során: 400 Bad Request (error code: 50035): Invalid Form Body
+In content: Must be 4000 or fewer in length.
+Traceback (most recent call last):
+  File "D:\Pyok\InventoryDiscordBot\bot.py", line 36, in send_message
+    await message.reply(f"BKK jármű pozíciók ({route_id}):\n```{full_response}```")
+  File "D:\Py\inventory\venv\lib\site-packages\discord\message.py", line 1384, in reply
+    return await self.channel.send(content, reference=self, **kwargs)
+  File "D:\Py\inventory\venv\lib\site-packages\discord\abc.py", line 1561, in send
+    data = await state.http.send_message(channel.id, params=params)
+  File "D:\Py\inventory\venv\lib\site-packages\discord\http.py", line 745, in request
+    raise HTTPException(response, data)
+discord.errors.HTTPException: 400 Bad Request (error code: 50035): Invalid Form Body
+In content: Must be 4000 or fewer in length.
+[2024-01-31 22:39:10] [ERROR] Érvénytelen bevitel: 400 Bad Request (error code: 50006); Ismeretlen bevitel: 'bkk_positions'; a következőtől: 'gamika18' (ID: 323902189904855061)
+
+[2024-01-31 22:40:09] [WARNING] PyNaCl is not installed, voice will NOT be supported
+[2024-01-31 22:40:09] [INFO] logging in using static token
+
+[2024-01-31 22:40:10] [INFO] Shard ID None has connected to Gateway (Session ID: 11e0b13451a90da385e76b887bda7629).
+
+[2024-01-31 22:40:12] [INFO] Inventory#2659 csatlakozott a Discordhoz!
+
+[2024-01-31 22:40:15] [INFO] 'gamika18' mondja: 'bkk_positions' (ID: 323902189904855061, 💲inventory-test)
+
+[2024-01-31 22:40:17] [ERROR] Hiba az üzenet kezelése során: 400 Bad Request (error code: 50035): Invalid Form Body
+In content: Must be 4000 or fewer in length.
+Traceback (most recent call last):
+  File "D:\Pyok\InventoryDiscordBot\bot.py", line 34, in send_message
+    await message.reply(f"BKK jármű pozíciók ({route_id}):\n```{chunks}```")
+  File "D:\Py\inventory\venv\lib\site-packages\discord\message.py", line 1384, in reply
+    return await self.channel.send(content, reference=self, **kwargs)
+  File "D:\Py\inventory\venv\lib\site-packages\discord\abc.py", line 1561, in send
+    data = await state.http.send_message(channel.id, params=params)
+  File "D:\Py\inventory\venv\lib\site-packages\discord\http.py", line 745, in request
+    raise HTTPException(response, data)
+discord.errors.HTTPException: 400 Bad Request (error code: 50035): Invalid Form Body
+In content: Must be 4000 or fewer in length.
+[2024-01-31 22:40:17] [ERROR] Érvénytelen bevitel: 400 Bad Request (error code: 50006); Ismeretlen bevitel: 'bkk_positions'; a következőtől: 'gamika18' (ID: 323902189904855061)
+
+[2024-01-31 22:41:05] [WARNING] PyNaCl is not installed, voice will NOT be supported
+[2024-01-31 22:41:05] [INFO] logging in using static token
+
+[2024-01-31 22:41:06] [INFO] Shard ID None has connected to Gateway (Session ID: 4f860844495583a28bd472ab95b85336).
+
+[2024-01-31 22:41:08] [INFO] Inventory#2659 csatlakozott a Discordhoz!
+
+[2024-01-31 22:41:11] [INFO] 'gamika18' mondja: 'bkk_positions' (ID: 323902189904855061, 💲inventory-test)
+
+[2024-01-31 22:42:13] [WARNING] PyNaCl is not installed, voice will NOT be supported
+[2024-01-31 22:42:13] [INFO] logging in using static token
+
+[2024-01-31 22:42:14] [INFO] Shard ID None has connected to Gateway (Session ID: 5df95f10d4566dc8b509322b665e3099).
+
+[2024-01-31 22:42:16] [INFO] Inventory#2659 csatlakozott a Discordhoz!
+
+[2024-01-31 22:42:28] [INFO] 'gamika18' mondja: 'szia' (ID: 323902189904855061, 💲inventory-test)
+
+[2024-01-31 22:42:29] [ERROR] Érvénytelen bevitel: 400 Bad Request (error code: 50006); Ismeretlen bevitel: 'szia'; a következőtől: 'gamika18' (ID: 323902189904855061)
+
+[2024-01-31 22:42:31] [INFO] 'gamika18' mondja: 'hello' (ID: 323902189904855061, 💲inventory-test)
+
+[2024-01-31 22:42:32] [INFO] Sikeres válasz érkezett a(z) 'hello' üzenetre a következőtől: 'gamika18' (ID: '323902189904855061') a '💲inventory-test' csatornán
+[2024-01-31 22:42:32] [INFO] A bot válasza: 'Hello!'
+
+[2024-01-31 22:42:34] [INFO] 'gamika18' mondja: 'asd' (ID: 323902189904855061, 💲inventory-test)
+[2024-01-31 22:42:34] [INFO] Sikeres válasz érkezett a(z) 'asd' üzenetre a következőtől: 'gamika18' (ID: '323902189904855061') a '💲inventory-test' csatornán
+[2024-01-31 22:42:34] [INFO] A bot válasza: '`Ez egy segítség amit tudsz változtatni.`'
+
+[2024-01-31 22:42:36] [INFO] 'gamika18' mondja: 'help' (ID: 323902189904855061, 💲inventory-test)
+[2024-01-31 22:42:36] [INFO] Sikeres válasz érkezett a(z) 'help' üzenetre a következőtől: 'gamika18' (ID: '323902189904855061') a '💲inventory-test' csatornán
+[2024-01-31 22:42:36] [INFO] A bot válasza: '<discord.embeds.Embed object at 0x0000023B7ADB24D0>'
+
+[2024-01-31 22:42:40] [INFO] 'gamika18' mondja: 'roll' (ID: 323902189904855061, 💲inventory-test)
+[2024-01-31 22:42:40] [INFO] Sikeres válasz érkezett a(z) 'roll' üzenetre a következőtől: 'gamika18' (ID: '323902189904855061') a '💲inventory-test' csatornán
+[2024-01-31 22:42:40] [INFO] A bot válasza: '5'
+
+[2024-01-31 22:42:44] [INFO] 'gamika18' mondja: 'bkk_positions' (ID: 323902189904855061, 💲inventory-test)
